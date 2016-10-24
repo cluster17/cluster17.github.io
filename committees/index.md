@@ -136,7 +136,6 @@ Satoshi Ohshima, The University of Tokyo, Japan<br>
 Miquel Pericàs, Chalmers University of Technology, Sweden<br>
 Leonardo Bautista Gomez, Barcelona Supercomputing Center, Spain<br>
 Florin Pop, University Politehnica of Bucharest, Romania<br>
-Ali R. Butt, Virginia Tech, USA<br>
 Brad Chamberlain, Cray, USA<br>
 Abhishek Chandra, University of Minnesota, USA<br>
 Mohamed Wahib, AICS Riken, Japan<br>
