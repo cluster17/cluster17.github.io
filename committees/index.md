@@ -38,6 +38,10 @@ Satoshi Matsuoka, Tokyo Tech, Japan
 
 Abhinav Bhatele, LLNL, USA
 
+<h3>Submissions Chair: </h3>
+
+Alexandru Costan, Insa Rennes/Inria, France
+
 
 <h2>Logistics</h2>
 
