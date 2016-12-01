@@ -42,6 +42,11 @@ Abhinav Bhatele, LLNL, USA
 
 Alexandru Costan, Insa Rennes/Inria, France
 
+<h3>Proceedings Chair: </h3>
+
+Kento Sato, Lawrence Livermore National Laboratory, USA
+
+
 
 <h2>Logistics</h2>
 
@@ -49,6 +54,11 @@ Alexandru Costan, Insa Rennes/Inria, France
 
 Kathryn Mohror, LLNL, USA<br>
 Jill Dunaway, LLNL, USA
+
+<h3>Local Arrangement Co-Chairs: </h3>
+
+Henri Casanova, University of Hawaii at Manoa, USA <br>
+Lipyeow Lim, University of Hawaii at Manoa, USA
 
 <h3>Web chair: </h3>
 
