@@ -14,29 +14,33 @@ header:
 
 <h2>Organizing Committee</h2>
 
-<h3>General co-chairs: </h3>
+<h3>General Co-chairs: </h3>
 
 Naoya Maruyama, Riken, Japan<br>
-Todd Gamblin, LLNL, USA
+Todd Gamblin, Lawrence Livermore National Laboratory, USA
 
 <h2>Technical Program</h2>
 
-<h3>Program co-chairs: </h3>
+<h3>Program Co-chairs: </h3>
 
 Gabriel Antoniu, INRIA, France<br>
-Rich Vuduc, Georgia Tech., USA
+Rich Vuduc, Georgia Institute of Technology, USA
 
 <h3>Workshops Chair: </h3>
 
-Bronis de Supinski, LLNL, USA
+Bronis de Supinski, Lawrence Livermore National Laboratory, USA
 
-<h3>Panels chair: </h3>
+<h3>Panels Chair: </h3>
 
-Satoshi Matsuoka, Tokyo Tech, Japan
+Satoshi Matsuoka, Tokyo Institute of Technology, Japan
+
+<h3>Student Mentoring Chair: </h3>
+
+Kenneth B. Kent , University of New Brunswick, Canada
 
 <h3>Posters Chair: </h3>
 
-Abhinav Bhatele, LLNL, USA
+Abhinav Bhatele, Lawrence Livermore National Laboratory, USA
 
 <h3>Submissions Chair: </h3>
 
@@ -50,19 +54,23 @@ Kento Sato, Lawrence Livermore National Laboratory, USA
 
 <h2>Logistics</h2>
 
-<h3>Finance co-chairs: </h3>
+<h3>Finance Co-chairs: </h3>
 
-Kathryn Mohror, LLNL, USA<br>
-Jill Dunaway, LLNL, USA
+Kathryn Mohror, Lawrence Livermore National Laboratory, USA<br>
+Jill Dunaway, Lawrence Livermore National Laboratory, USA
 
-<h3>Local Arrangement Co-Chairs: </h3>
+<h3>Local Arrangement Co-chairs: </h3>
 
 Henri Casanova, University of Hawaii at Manoa, USA <br>
 Lipyeow Lim, University of Hawaii at Manoa, USA
 
-<h3>Web chair: </h3>
+<h3>Publicity Chair: </h3>
 
-Leonardo Bautista-Gomez, BSC, Spain
+Masaaki Kondo, University of Tokyo, Japan
+
+<h3>Web Chair: </h3>
+
+Leonardo Bautista-Gomez, Barcelona Supercomputer Center, Spain
 
 
 <h2>Technical Program Committee: </h2>
@@ -90,7 +98,7 @@ Sherley Moore, University of Texas at El Paso, USA<br>
 John Owens, University of California Davis, USA<br>
 Tapasya Patki, Lawrence Livermore National Laboratory, USA<br>
 Olga Pearce, Lawrence Livermore National Laboratory, USA<br>
-Antonio Pena, Barcelona Supercompuer Center, Spain<br>
+Antonio Pena, Barcelona Supercomputer Center, Spain<br>
 Fabrizio Petrini, Intel, USA<br>
 Sivasankaran Rajamanickam, Sandia National Laboratories, USA<br>
 Amanda Randles, Duke University, USA<br>
