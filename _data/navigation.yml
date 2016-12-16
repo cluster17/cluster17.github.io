@@ -6,9 +6,19 @@
   url: "/"
   side: left
 
+- title: Technical Papers
+  url: "/technical"
+  side: left
+
+- title: Workshops
+  url: "/workshops"
+  side: left
+
 - title: Committees
   url: "/committees"
   side: left
+
+
 
 
 #- title: "Dropdown Menu"
