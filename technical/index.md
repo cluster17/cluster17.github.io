@@ -11,7 +11,8 @@ header:
    permalink: "/contact/"
 ---
 
-IEEE Cluster 2017 is the 19th edition of the IEEE Cluster conference series.<br>
+IEEE Cluster 2017 is the 19th edition of the IEEE Cluster conference series,
+organized in cooperation with SIGHPC.<br>
 
 Clusters are the primary architecture for building today's rapidly evolving
 cloud and HPC infrastructures, and are used to solve some of the most complex
@@ -154,3 +155,4 @@ conform to the following Xplore layout, page limit, and font size.
 
 Complete committee list is available <a href="http://cluster17.github.io/committees/">here</a>
 
+<img src="img/sighpc.png" width="200">
