@@ -18,6 +18,11 @@
   url: "/committees"
   side: left
 
+- title: Venue
+  url: "/venue"
+  side: left
+
+
 
 
 
