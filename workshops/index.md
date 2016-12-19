@@ -12,7 +12,7 @@ header:
 ---
 
 
-<h2>3rd International Workshop on Fault Tolerant Systems</h2>
+<h2><a href="https://fts17.github.io">3rd International Workshop on Fault Tolerant Systems (FTS)</a></h2>
 
 Fault Tolerance is a cross-cutting issue that spans all layers of the
 hardware/software stack, and hence, requires coupled improvements in each layer
@@ -22,7 +22,7 @@ attendees to get a holistic view of fault tolerance techniques, especially with
 a focus on HPC and parallel computing.
 
 
-<h2>Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications</h2>
+<h2><a href="https://sites.google.com/site/hpcmaspa2017/home">Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA)</a></h2>
 
 Architects, administrators, and users of modern high-performance computing
 (HPC) systems strive to meet goals of energy, resource, and application
@@ -53,7 +53,7 @@ monitoring, analysis, and feedback as it relates to increasing efficiency with
 respect to energy, resource utilization, and application run-time.
 
 
-<h2>Workshop on Representative Applications</h2>
+<h2>Workshop on Representative Applications (WRAp)</h2>
 
 Held as part of IEEE Cluster 2017, the Second International Workshop on
 Representative Applications is concerned with the development and use of
@@ -74,5 +74,30 @@ accurately models the target behavior.
 The main aim of WRAp is to provide a venue in which the wide range of
 disciplines involved in creating and using representative applications can
 share important discoveries and lessons learned from these applications.
+
+
+<h2>Re-Emergence of Vector Architectures Workshop (Rev-A)</h2>
+
+The commoditization of high performance computing to a broader range of
+applications coupled with the reduction in performance improvement from
+traditional scaling technologies has led to a broad interest in a number of new
+compute acceleration technologies from GPGPUs to CGRAs and FPGAs. Meanwhile,
+SIMD widths have been widening to try and keep up with computational demand and
+general purpose architectures have started incorporating features from the
+vector architectures that used to dominate high performance computing. From
+IBM’s Vector Media eXtension (VMX) to NEC’s SX architecture to Intel’s Advanced
+Vector eXtension (AVX) to ARM’s recently announced Scalable Vector Extension
+(SVE) -- all of the major general purpose architectures seem to have embraced a
+return to vector based functionality. Supporting these hardware developments
+there are a number of features being proposed for incorporation into modern
+programming models and languages in order to support the vector additions as
+well as restructuring memory access in order to feed the computational
+pipelines. Meanwhile application developers have been hard at work trying to
+refactor code to take advantage of wider vector units and more complicated
+memory hierarchies. Tools and techniques for developing for these new vector
+architectures are still evolving, particularly on emerging languages and
+runtimes.
+
+
 
 
