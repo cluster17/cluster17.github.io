@@ -121,7 +121,7 @@ conform to the following Xplore layout, page limit, and font size.
 <h3>Important dates:</h3>
 
 <li>Abstract deadline: <b>April 24th, 2017</b></li>
-<li>Full Papers due: <b>May 1st, 2017</b> (Potential 7-10 days extension)</li>
+<li>Full Papers due: <b>May 1st, 2017</b></li>
 <li>Paper Acceptance Notification: <b>June 30th, 2017</b></li>
 <li>Camera-ready deadline: <b>T.B.D.</b></li>
 <li>Conference: <b>September 05 through 08, 2017</b></li>
