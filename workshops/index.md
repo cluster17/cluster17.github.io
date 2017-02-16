@@ -53,7 +53,7 @@ monitoring, analysis, and feedback as it relates to increasing efficiency with
 respect to energy, resource utilization, and application run-time.
 
 
-<h2>Workshop on Representative Applications (WRAp)</h2>
+<h2><a href="https://wrap17.github.io/">Workshop on Representative Applications (WRAp)</a></h2>
 
 Held as part of IEEE Cluster 2017, the Second International Workshop on
 Representative Applications is concerned with the development and use of
