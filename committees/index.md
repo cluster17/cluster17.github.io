@@ -200,4 +200,25 @@ Rhonda Vickery, DRC, USA<br>
 Jon Woodring,  Los Alamos National Lab, USA<br>
 
 
+<h2>Posters Committee: </h2>
+
+Michela Becchi, North Carolina State University, USA<br>
+Marc Casas-Guix, Barcelona Supercomputing Center, Spain<br>
+Florina Ciorba, University of Basel, Switzerland<br>
+I-Hsin Chung, IBM Research, USA<br>
+Ewa Deelman, University of Southern California, USA<br>
+Ana Gainaru, Mellanox Technologies, USA<br>
+Maria Garzaran, University of Illinois at Urbana-Champaign, USA<br>
+Mike Gowanlock, Northern Arizona University, USA<br>
+Kate Isaacs, University of Arizona, USA<br>
+Nikhil Jain, Lawrence Livermore National Laboratory, USA<br>
+Ming Jiang, Lawrence Livermore National Laboratory, USA<br>
+Ana Jokanovic, Barcelona Supercomputing Center, USA<br>
+Che-Rung Lee, National Tsing Hua University, Taiwan<br>
+Misbah Mubarak, Argonne National Laboratory<br>
+Xiang Ni, IBM Research, USA<br>
+Boyana Norris, University of Oregon, USA<br>
+Seetharami Seelam, IBM Research, USA<br>
+Sameer Shende, University of Oregon, USA<br>
+Frederic Sutter, Ecole Normale Supérieure de Lyon, France<br>
 
