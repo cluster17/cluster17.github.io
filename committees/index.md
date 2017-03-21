@@ -202,6 +202,7 @@ Jon Woodring,  Los Alamos National Lab, USA<br>
 
 <h2>Posters Committee: </h2>
 
+Sadaf Alam, Swiss National Supercomputing Center, Switzerland<br>
 Michela Becchi, North Carolina State University, USA<br>
 Marc Casas-Guix, Barcelona Supercomputing Center, Spain<br>
 Florina Ciorba, University of Basel, Switzerland<br>
@@ -210,6 +211,7 @@ Ewa Deelman, University of Southern California, USA<br>
 Ana Gainaru, Mellanox Technologies, USA<br>
 Maria Garzaran, University of Illinois at Urbana-Champaign, USA<br>
 Mike Gowanlock, Northern Arizona University, USA<br>
+Ryan E. Grant, Sandia National Laboratories, USA<br>
 Kate Isaacs, University of Arizona, USA<br>
 Nikhil Jain, Lawrence Livermore National Laboratory, USA<br>
 Ming Jiang, Lawrence Livermore National Laboratory, USA<br>
