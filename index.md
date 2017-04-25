@@ -26,6 +26,6 @@ limited to:
  - Data, Storage, and Visualization
 
 
-<img src="images/sighpc.png" width="200">
+[//]: <> (<img src="images/sighpc.png" width="200">)
 <img src="images/ieee.gif" width="200">
 
