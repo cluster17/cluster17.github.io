@@ -153,6 +153,8 @@ conform to the following Xplore layout, page limit, and font size.
 <li>Lipyoew Lim, University of Hawaii, USA</li>
 <br>
 
-Complete committee list is available <a href="http://cluster17.github.io/committees/">here</a>
+Complete committee list is available <a href="http://cluster17.github.io/committees/">here</a>.
 
 <img src="img/sighpc.png" width="200">
+<img src="img/ieee.gif" width="200">
+

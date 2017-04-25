@@ -25,7 +25,7 @@ limited to:
  - Programming and Systems Software
  - Data, Storage, and Visualization
 
-More information coming soon!
 
-
+<img src="images/sighpc.png" width="200">
+<img src="images/ieee.gif" width="200">
 
