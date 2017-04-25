@@ -18,6 +18,10 @@
   url: "/posters"
   side: left
 
+- title: Student Mentoring
+  url: "/student"
+  side: left
+
 - title: Committees
   url: "/committees"
   side: left
