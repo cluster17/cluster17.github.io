@@ -35,6 +35,22 @@ description of why they want to participate in the conference, the name of their
 advisor, and their CV. The student’s adviser should endorse the student’s application
 and will be contacted once the application is submitted.
 
+
+<h4>Student travel awards - for students at U.S. institutions</h4>
+
+Several travel awards are sponsored by the National Science Foundation for
+students enrolled in US institutions and participating in the Student Mentoring
+Program at the IEEE Cluster 2017 conference. Students with accepted papers
+in the main conference track or in workshops, or students with posters must
+apply to and participate in the Student Mentoring Program to be eligible for
+the travel award. Notice of travel awards will be made prior to the conference.
+The travel awards will be distributed post-conference in the form of
+reimbursements against actual travel, registration, and accommodation expenses
+submitted by the student. Both graduate and undergraduate students can apply.
+
+
+<h2>Submission Guidelines</h2>
+
 Please submit your application via the <a
 href="https://easychair.org/conferences/?conf=ieeecluster2017">EasyChair
 submission system</a>.
@@ -47,6 +63,7 @@ Travel awards for students in USA institutions in the amount of up to <b>$1,000<
 will be assigned on a first-come, first-serve basis until completion of the
 available funding.
 
+<br>
 
 <h4>Student Mentoring Chair:</h4>
 <li>Kenneth Kent, University of New Brunswick (Canada)</li>

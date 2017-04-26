@@ -22,7 +22,7 @@ and monitoring, at the hardware, system, middleware and application levels.<br>
 
 Following the successes of previous <a href="http://www.clustercomp.org">IEEE
 Cluster conferences</a>, for IEEE Cluster 2017, which will be held September
-05-08, 2016 in Hawaii USA, we again solicit high-quality original work that
+05-08, 2017 in Hawaii USA, we again solicit high-quality original work that
 advances the state-of-the-art in clusters and closely related fields.  All
 papers will be rigorously peer-reviewed for their originality, technical depth
 and correctness, potential impact, relevance to the conference, and quality of
@@ -31,7 +31,21 @@ contributions while papers reporting experiences must clearly describe lessons
 learned and impact, along with the utility of the approach compared to previous
 ones.<br>
 
-<b>2017 Highlight: Convergence of Big Data and High-Performance Computing.</b>
+<h4>Student travel awards - for students at U.S. institutions</h4>
+
+Several travel awards are sponsored by the National Science Foundation for
+students enrolled in US institutions and participating in the Student Mentoring
+Program at the IEEE Cluster 2017 conference. Students with accepted papers
+in the main conference track or in workshops, or students with posters must
+apply to and participate in the Student Mentoring Program to be eligible for
+the travel award. Notice of travel awards will be made prior to the conference.
+The travel awards will be distributed post-conference in the form of
+reimbursements against actual travel, registration, and accommodation expenses
+submitted by the student. Both graduate and undergraduate students can apply.<br>
+
+
+<h6>2017 Highlight: Convergence of Big Data and High-Performance Computing.</h6>
+
 While the tools and cultures for High-Performance Computing and Big Data
 Analytics have evolved in divergent ways, both rely on cluster architectures.
 As we witness an increasing awareness that further progress in scientific
@@ -40,7 +54,7 @@ these two ecosystems is expected to be critical to the future. Therefore, we
 have chosen this year to highlight  research topics in all areas expected to
 bring progress in understanding if, why and how clusters should support this
 convergence. Specific topics are dedicated to this direction within all
-conference areas alongside more traditional topics.
+conference areas alongside more traditional topics. <br>
 
 Authors must indicate the primary area of preference out of the four areas
 below. They may optionally rank the other areas. The paper may be accepted as a
@@ -131,8 +145,8 @@ conform to the following Xplore layout, page limit, and font size.
 <h3>Organizers</h3>
 
 <h4>General Co-chairs:</h4>
-<li>Naoya Maruyama, Riken, Japan</li>
 <li>Todd Gamblin, Lawrence Livermore National Laboratory, USA</li>
+<li>Naoya Maruyama, Riken, Japan</li>
 
 <h4>Program Co-chairs:</h4>
 <li>Gabriel Antoniu, INRIA, France</li>
