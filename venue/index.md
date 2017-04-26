@@ -28,8 +28,8 @@ Diego, San Francisco, San Jose, Seattle-Tacoma, Seoul, Sydney and Vancouver.
 
 <h2>Hotel Venue</h2>
 
-The designated hotel for the IEEE Cluster 2017 conference is <a
-href="http://www.sheraton-waikiki.com/">Sheraton Waikik</a>. One of Hawaii's
+The designated hotel for the IEEE Cluster 2017 conference is the <a
+href="http://www.sheraton-waikiki.com/">Sheraton Waikiki</a>. One of Hawaii's
 more recognized landmarks, the Sheraton Waikiki, stands at the tip of <a
 href="http://www.sheraton-waikiki.com/images/propertymap_big.jpg">Waikiki
 Beach</a> next to the Royal Hawaiian. You are steps away from the new Galleria,
