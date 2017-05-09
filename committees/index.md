@@ -16,8 +16,8 @@ header:
 
 <h3>General Co-chairs: </h3>
 
+Todd Gamblin, Lawrence Livermore National Laboratory, USA<br>
 Naoya Maruyama, Riken, Japan<br>
-Todd Gamblin, Lawrence Livermore National Laboratory, USA
 
 <h2>Technical Program</h2>
 
@@ -37,6 +37,10 @@ Satoshi Matsuoka, Tokyo Institute of Technology, Japan
 <h3>Student Mentoring Chair: </h3>
 
 Kenneth B. Kent , University of New Brunswick, Canada
+
+<h3>Student Travel Award Chair:</h3>
+
+Michela Taufer University of Delaware (USA)
 
 <h3>Posters Chair: </h3>
 
@@ -64,13 +68,13 @@ Jill Dunaway, Lawrence Livermore National Laboratory, USA
 Henri Casanova, University of Hawaii at Manoa, USA <br>
 Lipyeow Lim, University of Hawaii at Manoa, USA
 
-<h3>Publicity Chair: </h3>
-
-Masaaki Kondo, University of Tokyo, Japan
-
 <h3>Web Chair: </h3>
 
 Leonardo Bautista-Gomez, Barcelona Supercomputer Center, Spain
+
+<h3>Publicity Chair: </h3>
+
+Masaaki Kondo, University of Tokyo, Japan
 
 
 <h2>Technical Program Committee: </h2>
