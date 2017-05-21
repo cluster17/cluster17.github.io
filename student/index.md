@@ -11,6 +11,12 @@ header:
    permalink: "/contact/"
 ---
 
+
+<b>IMPORTANT: Applications will be reviewed starting June 30, 2017. Advisor’s
+endorsements will be requested once the review process has started.
+Notifications will be sent starting August 6, 2017.</b>
+
+
 <h3>Why a Mentoring Program at IEEE Cluster 2017?</h3>
 
 The Mentoring Program at IEEE Cluster 2017 is a program for PhD, Master, and
