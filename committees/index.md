@@ -87,6 +87,7 @@ Masaaki Kondo, University of Tokyo, Japan
 Aydin Buluc, Lawrence Berkeley National Laboratory, USA<br>
 Sunita Chandrasekaran, University of Delaware, USA<br>
 Kyle Chard, Unviersiy of Chicago, USA<br>
+Pietro Cicotti, San Diego Supercomputing Center, USA<br>
 Gabrielle Dawn Allen, University of IllinoisUrbana-Champaign, USA<br>
 Karen Devine, Sandia National Laboratories, USA<br>
 Trilce Estrada, University of New Mexico, USA<br>
@@ -94,21 +95,28 @@ Rafael Ferreira da Silva, University of South California, USA<br>
 Rong Ge, Clemson University, USA<br>
 Kartik Gopalan, Binghamton University, USA<br>
 Michael Heroux, Sandia National Laboratories, USA<br>
+Travis Johnston, Oak Ridge National Laboratory, USA<br>
 Johannes Langguth, Simula Research Laboratory, Norway<br>
+Daniele Lezzi, Barcelona Supercomputing Center, Spain<br>
 Piotr R Luszczek, University of Tennesee, Knoxville, USA<br>
 Kamesh Madduri, The Pennsylvania State University, USA<br>
 Maciej Malawski, AGH University of the Science and Technology, Poland<br>
+Jonathan Marti, Barcelona Supercomputing Center, Spain<br>
 Sherley Moore, University of Texas at El Paso, USA<br>
 John Owens, University of California Davis, USA<br>
+Vivek Pallipuram, University of the Pacific, USA<br>
 Tapasya Patki, Lawrence Livermore National Laboratory, USA<br>
 Olga Pearce, Lawrence Livermore National Laboratory, USA<br>
 Antonio Pena, Barcelona Supercomputer Center, Spain<br>
 Fabrizio Petrini, Intel, USA<br>
+Anna Queralt, BarcelonaSupercomputing Center, Spain<br>
 Sivasankaran Rajamanickam, Sandia National Laboratories, USA<br>
 Amanda Randles, Duke University, USA<br>
+Erik Saule, University of North Carolina at Charlotte, USA<br>
 Suzanne Shontz, University of Kansas, USA<br>
 Min Si, Argonne National Laboratory, USA<br>
 Francesco Silvestri, IT University of Copenhagen, Denmark<br>
+Raul Sirvent, BarcelonaSupercomputing Center, Spain<br>
 Hari Sundar, Unviersity of Utah, USA<br>
 Nathan Tallent, Pacific Northwest National Laboratory, USA<br>
 R. (Vaidy) Vaidyanathan, Louisiana State University, USA<br>

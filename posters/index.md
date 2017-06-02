@@ -42,8 +42,8 @@ system</a>.
 
 <h3>Important Dates</h3>
 
- * Submission deadline: June 7, 2017 (AoE)
- * Acceptance notification: July 5, 2017 (AoE)
+ * <b>Submission deadline (extended): July 5, 2017 (AoE)</b>
+ * Acceptance notification: July 26, 2017 (AoE)
 
 <h4>Posters Chair</h4>
 
