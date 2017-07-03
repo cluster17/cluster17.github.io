@@ -11,9 +11,8 @@ header:
    permalink: "/contact/"
 ---
 
-This is just a placeholder for the future IEEE Cluster 2017 website.
+Please forward your questions directly to the Program Chairs or the General Chairs.
 
-More coming soon!
 
 
 
