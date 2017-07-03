@@ -137,7 +137,7 @@ conform to the following Xplore layout, page limit, and font size.
 <li>Abstract deadline: <b>May 10th, 2017 (Hard Deadline)</b></li>
 <li>Full Papers due: <b>May 15th, 2017 (Hard Deadline)</b></li>
 <li>Paper Acceptance Notification: <b>June 30th, 2017</b></li>
-<li>Camera-ready deadline: <b>T.B.D.</b></li>
+<li>Camera-ready deadline: <b>July 31st, 2017</b></li>
 <li>Conference: <b>September 05 through 08, 2017</b></li>
 <li>Deadlines are <a href="http://www.timeanddate.com/time/zones/aoe">Anywhere on Earth (AoE)</a></li>
 
