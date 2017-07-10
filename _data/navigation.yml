@@ -10,6 +10,10 @@
   url: "/technical"
   side: left
 
+- title: Instructions for Authors
+  url: "/authors"
+  side: left
+
 - title: Workshops
   url: "/workshops"
   side: left
