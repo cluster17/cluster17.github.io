@@ -25,7 +25,7 @@ the layout of your paper BEFORE submitting it to PDF eXpress™.
 
 <li>Full/Short papers should not exceed 10/4 pages NOT counting references.</li>
 
-<li><b>The camera-ready version of your paper should be uploaded via this <a href="http://conferences.computer.org/cluster/ak/authorkit.html">link</a>.</b></li>
+<li>The camera-ready version should be uploaded via the link we sent you by email.</li>
 
 <li>The hard deadline for submitting the camera-ready version of your paper is <b>July 31st, 2017</b></li>
 
