@@ -25,7 +25,7 @@ the layout of your paper BEFORE submitting it to PDF eXpress™.
 
 <li>Full/Short papers should not exceed 10/4 pages NOT counting references.</li>
 
-<li>The camera-ready version should be uploaded via the link we sent you by email.</li>
+<li>The camera-ready version should be uploaded via the link sent to you by email.</li>
 
 <li>The hard deadline for submitting the camera-ready version of your paper is <b>July 31st, 2017</b></li>
 
