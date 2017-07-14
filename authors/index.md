@@ -30,5 +30,14 @@ the layout of your paper BEFORE submitting it to PDF eXpress™.
 <li>The hard deadline for submitting the camera-ready version of your paper is <b>July 31st, 2017</b></li>
 
 
+<h3>Additional Pages</h3>
+
+<li><b>Full papers:</b> 10 pages + reference pages + 2 extra pages ($200 per page)</li>
+
+<li><b>Short papers:</b> 4 pages + reference pages (no extra page)</li>
+
+<li><b>Poster papers:</b> 2 pages (no reference nor extra page)</li>
+
+<li><b>Workshop papers:</b> Up to 2 extra pages ($200 per page)</li>
 
 
