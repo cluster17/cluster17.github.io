@@ -56,4 +56,47 @@ In addition, most of the hotels in the area offer information about the
 that tourists can enjoy in the Waikiki beach.
 
 
+<h2>Visa Procedures</h2>
+
+Please note that the information in this webpage are for guidelines only. Full
+details can be found at the US Department of State Information  <a
+href="https://travel.state.gov//content/travel/en.html">About US
+Visas</a> website.
+
+<h3>Visitors Eligible for Visa Waiver Program</h3>
+
+You may be eligible to visit the US without an immigrant visa if you are
+traveling for tourism or business, for up to 90 days, with a passport issued by
+one of the countries that participate in the  <a
+href="https://travel.state.gov/content/visas/en/visit/visa-waiver-program.html">
+Visa Waiver Program</a> (VWP).  Please refer to the above VWP link for the
+procedure and necessary document when traveling to US.
+
+
+<h3>Other Visitors</h3>
+
+If you are traveling to the United States with a passport issued by any other
+country, you must apply for a visa. Please read these procedures carefully:
+
+To apply for a visa, you must have a “letter of invitation.” Cluster will issue
+letters of invitation to assist the process. Be sure that you have registered
+*and paid in full*. Then, submit a request for an invitation letter at
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfsiod9rvAOQvE7lGfNF9Pgjw0v6BShsf-M0ZNx78nFZyZLDA/viewform">
+this page</a>.  Once we have received this information, we can send a PDF
+signed letter confirming your registration.
+
+After you receive the letter of invitation, visit your local United States
+embassy webpage or call consulate for the visa application procedure. For
+information on the embassy or consulate closest to you, see  <a
+href="https://www.usembassy.gov/"> Links to United States Embassies and
+Consulates Worldwide</a>.  We strongly recommend that you start the process as
+soon as possible in order to obtain the necessary documents.
+
+Note that when you go to the embassy or consulate for your interview, you will
+be asked to pay a nonrefundable application fee and submit necessary materials.
+Detailed information can be found in the US Embassy webpage in your county.
+
+
+
+
 
