@@ -10,7 +10,7 @@
   url: "/technical"
   side: left
 
-- title: Instructions for Authors
+- title: Authors
   url: "/authors"
   side: left
 
@@ -20,6 +20,10 @@
 
 - title: Posters
   url: "/posters"
+  side: left
+
+- title: Program
+  url: "/program"
   side: left
 
 - title: Student Mentoring
