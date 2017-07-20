@@ -6,7 +6,7 @@
   url: "/"
   side: left
 
-- title: Technical Papers
+- title: Papers
   url: "/technical"
   side: left
 
@@ -26,7 +26,7 @@
   url: "/program"
   side: left
 
-- title: Student Mentoring
+- title: Mentoring
   url: "/student"
   side: left
 
@@ -76,6 +76,6 @@
 #  url: "/search/"
 #  side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right
