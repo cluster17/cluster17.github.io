@@ -12,6 +12,203 @@ header:
 ---
 
 
+<table border="1" style="width:750px; text-align:center; vertical-align=middle; border:1px solid black; ">
+
+ <tr>
+  <th>  </th>
+  <th>  </th>
+  <th> Workshops </th>
+  <th colspan="6"> Main Conference </th>
+ </tr>
+
+ <tr>
+  <th width="25">  </th>
+  <th width="25">  </th>
+  <th width="100"> Tuesday </th>
+  <th width="200" colspan="2"> Wednesday </th>
+  <th width="200" colspan="2"> Thursday </th>
+  <th width="200" colspan="2"> Friday </th>
+ </tr>
+
+ <tr>
+  <th width="25"> H </th>
+  <th width="25"> M </th>
+  <th width="100">  </th>
+  <th width="100"> Honolulu </th>
+  <th width="100"> Kahuku </th>
+  <th width="100"> Honolulu </th>
+  <th width="100"> Kahuku </th>
+  <th width="100"> Honolulu </th>
+  <th width="100"> Kahuku </th>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 07 </td>
+  <td> 00 </td>
+  <td colspan="7" rowspan="3" style="text-align:center; vertical-align:middle; font-size:20px;"> Registration Open </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 08 </td>
+  <td> 00 </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+  <td colspan="1" rowspan="4"> Workshop 1 </td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 1 * </td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 2 * </td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 3 * </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 09 </td>
+  <td> 00 </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+  <td colspan="2" rowspan="2"> Session 01 * <br> Best Papers </td>
+  <td colspan="2" rowspan="2"> Session 08 * <br> Best Papers </td>
+  <td colspan="1" rowspan="2"> Session 13 * </td>
+  <td colspan="1" rowspan="2"> Session 14 * </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 10 </td>
+  <td> 00 </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+  <td colspan="7" rowspan="1" style="text-align:center; vertical-align:middle; font-size:20px;"> Coffee Break </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 11 </td>
+  <td> 00 </td>
+  <td colspan="1" rowspan="3"> Workshop 2 </td>
+  <td colspan="1" rowspan="3"> Session 02 </td>
+  <td colspan="1" rowspan="3"> Session 03 </td>
+  <td colspan="1" rowspan="3"> Session 09 </td>
+  <td colspan="1" rowspan="3"> Session 10 </td>
+  <td colspan="1" rowspan="3"> Session 15 </td>
+  <td colspan="1" rowspan="3"> Session 16 </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 12 </td>
+  <td> 00 </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+  <td colspan="7" rowspan="3" style="text-align:center; vertical-align:middle; font-size:20px;"> Lunch </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 13 </td>
+  <td> 00 </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 14 </td>
+  <td> 00 </td>
+  <td colspan="1" rowspan="3"> Workshop 3 </td>
+  <td colspan="1" rowspan="3"> Session 04 </td>
+  <td colspan="1" rowspan="3"> Session 05 </td>
+  <td colspan="2" rowspan="3"> Panel * </td>
+  <td colspan="1" rowspan="3"> Session 17 </td>
+  <td colspan="1" rowspan="3"> Session 18 </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 15 </td>
+  <td> 00 </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+  <td colspan="7" rowspan="1" style="text-align:center; vertical-align:middle; font-size:20px;"> Coffee Break </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 16 </td>
+  <td> 00 </td>
+  <td colspan="1" rowspan="4"> Workshop 4 </td>
+  <td colspan="1" rowspan="4"> Session 06 </td>
+  <td colspan="1" rowspan="4"> Session 07 </td>
+  <td colspan="1" rowspan="4"> Session 11 </td>
+  <td colspan="1" rowspan="4"> Session 12 </td>
+  <td colspan="1" rowspan="4"> Session 19 </td>
+  <td colspan="1" rowspan="4"> Session 20 </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 17 </td>
+  <td> 00 </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 18 </td>
+  <td> 00 </td>
+  <td>  </td>
+  <td colspan="2" rowspan="4" style="text-align:center; vertical-align:middle; font-size:20px;"> Poster Reception * </td>
+  <td colspan="2" rowspan="4" style="text-align:center; vertical-align:middle; font-size:20px;"> Banquet * </td>
+  <td>  </td>
+  <td>  </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+  <td>  </td>
+  <td>  </td>
+  <td>  </td>
+ </tr>
+
+ <tr>
+  <td rowspan="2"> 19 </td>
+  <td> 00 </td>
+  <td>  </td>
+  <td>  </td>
+  <td>  </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+  <td>  </td>
+  <td>  </td>
+  <td>  </td>
+ </tr>
+
+</table>
+
+<b> * This sessions are held in the Lanai room. </b><br>
+
 
 <h3>Full papers: </h3>
 
