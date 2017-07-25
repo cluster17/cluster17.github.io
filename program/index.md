@@ -72,10 +72,10 @@ header:
 
  <tr>
   <td> 30 </td>
-  <td colspan="2" rowspan="2"> Session 01 * <br> Best Papers 1 </td>
-  <td colspan="2" rowspan="2"> Session 08 * <br> Best Papers 2 </td>
-  <td colspan="1" rowspan="2"> Session 13 : Programming ans System Software </td>
-  <td colspan="1" rowspan="2"> Session 14 : Programming and System Software </td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle;"><b> Session 01 * : </b><br> Best Papers 1 </td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle;"><b> Session 08 * : </b><br> Best Papers 2 </td>
+  <td colspan="1" rowspan="2"><b> Session 13 : </b> Programming ans System Software </td>
+  <td colspan="1" rowspan="2"><b> Session 14 : </b> Programming and System Software </td>
  </tr>
 
  <tr>
@@ -92,12 +92,12 @@ header:
   <td rowspan="2"> 11 </td>
   <td> 00 </td>
   <td colspan="1" rowspan="3"> Workshop 2 </td>
-  <td colspan="1" rowspan="3"> Session 02 : Applications, Algorithms and Libraries </td>
-  <td colspan="1" rowspan="3"> Session 03 : Data, Storage and Visualization </td>
-  <td colspan="1" rowspan="3"> Session 09 : Applications, Algorithms and Libraries </td>
-  <td colspan="1" rowspan="3"> Session 10 : Programming and System Software </td>
-  <td colspan="1" rowspan="3"> Session 15 : Applications, Algorithms and Libraries </td>
-  <td colspan="1" rowspan="3"> Session 16 : Programming and System Software </td>
+  <td colspan="1" rowspan="3"><b> Session 02 : </b> Applications, Algorithms and Libraries </td>
+  <td colspan="1" rowspan="3"><b> Session 03 : </b> Data, Storage and Visualization </td>
+  <td colspan="1" rowspan="3"><b> Session 09 : </b> Applications, Algorithms and Libraries </td>
+  <td colspan="1" rowspan="3"><b> Session 10 : </b> Programming and System Software </td>
+  <td colspan="1" rowspan="3"><b> Session 15 : </b> Applications, Algorithms and Libraries </td>
+  <td colspan="1" rowspan="3"><b> Session 16 : </b> Programming and System Software </td>
  </tr>
 
  <tr>
@@ -127,11 +127,11 @@ header:
   <td rowspan="2"> 14 </td>
   <td> 00 </td>
   <td colspan="1" rowspan="3"> Workshop 3 </td>
-  <td colspan="1" rowspan="3"> Session 04 : Applications, Algorithms and Libraries </td>
-  <td colspan="1" rowspan="3"> Session 05 : Programming and System Software </td>
+  <td colspan="1" rowspan="3"><b> Session 04 : </b> Applications, Algorithms and Libraries </td>
+  <td colspan="1" rowspan="3"><b> Session 05 : </b> Programming and System Software </td>
   <td colspan="2" rowspan="3" style="text-align:center; vertical-align:middle; font-size:20px;"> Panel * </td>
-  <td colspan="1" rowspan="3"> Session 17 : Applications, Algorithms and Libraries </td>
-  <td colspan="1" rowspan="3"> Session 18 : Programming and Systems Software </td>
+  <td colspan="1" rowspan="3"><b> Session 17 : </b> Applications, Algorithms and Libraries </td>
+  <td colspan="1" rowspan="3"><b> Session 18 : </b> Programming and Systems Software </td>
  </tr>
 
  <tr>
@@ -152,12 +152,12 @@ header:
   <td rowspan="2"> 16 </td>
   <td> 00 </td>
   <td colspan="1" rowspan="4"> Workshop 4 </td>
-  <td colspan="1" rowspan="4"> Session 06 : Architecture, Networks / Communication and Management </td>
-  <td colspan="1" rowspan="4"> Session 07 : Data, Storage and Visualization </td>
-  <td colspan="1" rowspan="4"> Session 11 : Architecture, Networks / Communication and Management </td>
-  <td colspan="1" rowspan="4"> Session 12 : Data, Storage and Visualization </td>
-  <td colspan="1" rowspan="4"> Session 19 : Applications, Algorithms and Libraries </td>
-  <td colspan="1" rowspan="4"> Session 20 : Programming and Systems Software </td>
+  <td colspan="1" rowspan="4"><b> Session 06 : </b> Architecture, Networks / Communication and Management </td>
+  <td colspan="1" rowspan="4"><b> Session 07 : </b> Data, Storage and Visualization </td>
+  <td colspan="1" rowspan="4"><b> Session 11 : </b> Architecture, Networks / Communication and Management </td>
+  <td colspan="1" rowspan="4"><b> Session 12 : </b> Data, Storage and Visualization </td>
+  <td colspan="1" rowspan="4"><b> Session 19 : </b> Applications, Algorithms and Libraries </td>
+  <td colspan="1" rowspan="4"><b> Session 20 : </b> Programming and Systems Software </td>
  </tr>
 
  <tr>
@@ -210,20 +210,14 @@ header:
 <b> (*) These sessions are held in the Lanai room. </b><br>
 
 
-Session 1: Best Papers 1
-
-Area 1 :
+<h5>Session 1: Best Papers 1 (Areas 1 and 2) : </h5>
 
 27        Tahsin Reza, Christine Klymko, Geoffrey Sanders, Roger Pearce and Matei Ripeanu. Towards Practical and Robust Labeled Pattern Matching in Trillion-Edge Graphs 
-
-Area 2: 
 
 229       Sourav Chakraborty, Hari Subramoni and Dhabaleswar Panda. Contention-Aware Kernel-Assisted MPI Collectives for Multi/Many-core Systems   
 
 
-Session 2: Applications, Algorithms, and Libraries
-
-3 F papers:
+<h5>Session 2: Applications, Algorithms, and Libraries (3 Full papers) : </h5>
 
 298         Willian Barreiros Jr., George Teodoro, Tahsin Kurc, Jun Kong, Alba Cristina M. A. Melo and Joel Saltz. Parallel and Efficient Sensitivity Analysis of Microscopy Image Segmentation Workflows in Hybrid Systems    
 
@@ -232,9 +226,7 @@ Session 2: Applications, Algorithms, and Libraries
 40         Matthieu Dreher, Kiran Sasikumar, Subramanian Sankaranarayanan and Tom Peterka. Manala: a Flexible Flow Control Library for Asynchronous Task Communication   
 
 
-Session 3: Data, Storage, and Visualization
-
-2F+2S papers:
+<h5>Session 3: Data, Storage, and Visualization  (2 Full and 2 Short papers) : </h5>
 
 109       Misbah Mubarak, Philip Carns, Jonathan Jenkins, Jianping Li, Nikhil Jain, Shane Snyder, Robert Ross, Abhinav Bhatele, Chris Carothers and Kwan-Liu Ma. Quantifying I/O and Communication Traffic Interference on Burst Buffer Equipped Dragonfly Networks
 
@@ -245,21 +237,16 @@ Session 3: Data, Storage, and Visualization
 271       Orcun Yildiz, Amelie Chi Zhou and Shadi Ibrahim. Eley: On the Effectiveness of Burst Buffers for Big Data Processing in HPC systems
 
 
+<h5>Session 4: Applications, Algorithms, and Libraries (3 Full papers) : </h5>
 
-Session 4: Applications, Algorithms, and Libraries
-
-3F papers:
-
-173         Franz C. Heinrich, Tom Cornebize, Augustin Degomme, Arnaud Legrand, Alexandra Carpen-Amarie, Sascha Hunold, Anne-Cécile Orgerie and Martin Quinson. Predicting the Energy-Consumption of MPI Applications at Scale Using Only a Single Node  
+173         Franz C. Heinrich, Tom Cornebize, Augustin Degomme, Arnaud Legrand, Alexandra Carpen-Amarie, Sascha Hunold, Anne-Cécile Orgerie and Martin Quinson. Predicting the Energy-Consumption of MPI Applications at Scale Using Only a Single Node
   
 267         David Boehme, David Beckingsale and Martin Schulz. Flexible Data Aggregation for Performance Profiling   
 
 54         Bangtian Liu, Chengyao Wen, Anand D. Sarwate and Maryam Mehri Dehnavi. A Unified Optimization Approach for Sparse Tensor Operations on GPUs    
 
 
-Session 5: Programming and Systems Software
-
-2F+2S papers:
+<h5>Session 5: Programming and Systems Software (2 Full and 2 Short papers) : </h5>
 
 44        Harald Servat, Antonio J. Peña, Germán Llort, Estanislao Mercadal, Hans-Christian Hoppe and Jesus Labarta. Automating the Application Data Placement in Hybrid Memory Systems  
 
@@ -270,9 +257,7 @@ Session 5: Programming and Systems Software
 97         Tim Suess, Lars Nagel, Marc-Andre Vef, Andre Brinkmann, Dustin Feld and Thomas Soddemann. Pure Functions in C: A Small Keyword for Automatic Parallelization   
 
 
-Session 6: Architecture, Networks/Communication and Management
-
-3F+1S papers:
+<h5>Session 6: Architecture, Networks/Communication and Management (3 Full and 1 Short papers) : </h5>
 
 133         Yang Li, Saugata Ghose, Jongmoo Choi, Jin Sun, Hui Wang and Onur Mutlu. Utility-Based Hybrid Memory Management    
 
@@ -283,9 +268,7 @@ Session 6: Architecture, Networks/Communication and Management
 280         Mauro Ianni, Alessandro Pellegrini and Francesco Quaglia. A Wait-free Multi-word Atomic (1,N) Register for Large-scale Data Sharing on Multi-core Machines   
    
 
-Session 7: Data, Storage, and Visualization
-
-3F+1S papers:
+<h5>Session 7: Data, Storage, and Visualization (3 Full  and 1 Short papers) : </h5>
 
 129         Jianping Li, Misbah Mubarak, Kwan-Liu Ma, Robert Ross and Christopher Carothers. Visual Analytics Techniques for Exploring the Design Space of Large-Scale High-Radix Networks    
 
@@ -296,19 +279,14 @@ Session 7: Data, Storage, and Visualization
 88         Hyungsoo Jung, Sooyong Kang, Hyuck Han, Hyeongwon Jang, Sang Youp Rhee and Jae Eun Kim. AutoBahn: Accelerating Concurrent, Durable File I/O via a Non-Volatile Buffer   
 
 
-Session 8: Best Papers 2
-
-Area 3: 
+<h5>Session 8: Best Papers 2 (Areas 3 and 4) : </h5>
 
 120        Stratos Dimopoulos, Chandra Krintz and Rich Wolski. JUSTICE: A Deadline-aware, Fair-share Resource Allocator for Implementing Multi-analytics    
 
-Area 4: 
-
 103        Jaehyun Han, Donghun Koo, Glenn K. Lockwood, Jaehwan Lee, Hyeonsang Eom and Soonwook Hwang. Accelerating a burst buffer via user-level I/O isolation.
 
-Session 9: Applications, Algorithms, and Libraries
 
-3F papers:
+<h5>Session 9: Applications, Algorithms, and Libraries (3 Full papers) : </h5>
 
 79         Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong and Xiaokui Xiao. GraphH: High Performance Big Graph Analytics in Small Clusters    
 
@@ -317,9 +295,7 @@ Session 9: Applications, Algorithms, and Libraries
 174         Jeremy Logan, Jong Choi, Matthew Wolf, George Ostrouchov, Lipeng Wan, Norbert Podhorszki, William Godoy, Erich Lohrmann, Greg Eisenhauer, Chad Wood, Kevin Huck and Scott Klasky. Extending Skel to support the development and optimization of next generation I/O systems   
 
 
-Session 10: Programming and Systems Software
-
-3 F papers:
+<h5>Session 10: Programming and Systems Software (3 Full papers) : </h5>
 
 140        Yuping Fan, Paul Rich, William Allcock, Michael Papka and Zhiling Lan. Trade-off between Prediction Accuracy and Underestimation Rate in Job Runtime Estimates    
 
@@ -328,9 +304,7 @@ Session 10: Programming and Systems Software
 213        Pierre-Louis Guhur, Emil Constantinescu, Debojyoti Ghosh, Tom Peterka and Franck Cappello. Detection of Silent Data Corruption in Adaptive Numerical Integration Solvers   
 
 
-Session 11: Architecture, Networks/Communication and Management
-
-2F+3S papers:
+<h5>Session 11: Architecture, Networks/Communication and Management (2 Full and 3 Short papers) : </h5>
 
 183         Vicente Adolfo Bolea Sanchez, Wonbae Kim, Youngmoon Eom, Kibeom Jin, Moohyeon Nam, Deukyeon Hwang, Jik-Soo Kim and Beomseok Nam. EclipseMR: Distributed and Parallel Task Processing with Consistent Hashing   
 
@@ -343,9 +317,7 @@ Session 11: Architecture, Networks/Communication and Management
 266         Hari Subramoni, Xiaoyi Lu and Dhabaleswar Panda. A Scalable Network-Based Performance Analysis Tool for MPI on Large-Scale HPC Systems   
   
 
-Session 12: Data, Storage, and Visualization
-
-2F+3S papers:
+<h5>Session 12: Data, Storage, and Visualization (2 Full and 3 Short papers) : </h5>
 
 249         Houjun Tang, Suren Byna, Bin Dong, Jialin Liu and Quincey Koziol. SoMeta: Scalable Object-centric Metadata Management for High Performance Computing  
 
@@ -358,27 +330,21 @@ Session 12: Data, Storage, and Visualization
 137         Hui Sun, Wei Liu, Weisong Shi and Jianzhong Huang. COL-KV: A Collaborative Key-Value Store Using Near-Data Processing   
 
 
-Session 13: Programming and Systems Software
-
-2F papers:
+<h5>Session 13: Programming and Systems Software (2 Full papers) : </h5>
 
 32         Shuo Yang, Kai Wu, Yifan Qiao, Dong Li and Jidong Zhai. Algorithm-Directed Crash Consistence in Non-Volatile Memory for HPC    
 
 34         Mohammadreza Hoseinyfarahabady, Albert Zomaya and Zahir Tari. Towards QoS- &nbsp;Contention- Aware Resource Provisioning in Streaming Processing Engine    
 
 
-Session 14: Programming and Systems Software
-
-2F papers:
+<h5>Session 14: Programming and Systems Software (2 Full papers) : </h5>
 
 141         Masahiro Nakao, Hitoshi Murai, Hidetoshi Iwashita, Akihiro Tabuchi, Taisuke Boku and Mitsuhisa Sato. Implementing Lattice QCD Application with XcalableACC Language on Accelerated Cluster    
 
 155         Unnikrishnan Cheramangalath, Rupesh Nasre and Y N Srikant. DH-Falcon: A language for large-scale graph processing on Distributed Heterogeneous systems.    
     
 
-Session 15: Applications, Algorithms, and Libraries
-
-3F papers:
+<h5>Session 15: Applications, Algorithms, and Libraries (3 Full papers) : </h5>
 
 121         Sarat Sreepathi, Jitendra Kumar, Forrest Hoffman, Richard Mills, Vamsi Sripathi and William Hargrove. Parallel Multivariate Spatio-Temporal Clustering of Large Ecological Datasets on Hybrid Supercomputers    
 
@@ -386,11 +352,8 @@ Session 15: Applications, Algorithms, and Libraries
 
 217         Xinyu Chen, Trilce Estrada and Jeremy Benson. keybin Key-based Binning for Distributed Clustering    
 
-    
 
-Session 16: Programming and Systems Software
-
-3F papers:
+<h5>Session 16: Programming and Systems Software (3 Full papers) : </h5>
 
 161         Andrew Younge, Kevin Pedretti, Ryan Grant and Ron Brightwell. Enabling Diverse Software Stacks on Supercomputers using High Performance Virtual Clusters    
 
@@ -399,9 +362,7 @@ Session 16: Programming and Systems Software
 310         Jens Breitbart, Simon Pickartz, Josef Weidendorfer, Stefan Lankes and Antonello Monti. Dynamic Co-scheduling Driven by Main Memory Bandwidth Utilization   
 
 
-Session 17: Applications, Algorithms, and Libraries
-
-2F+2S papers:
+<h5>Session 17: Applications, Algorithms, and Libraries (2 Full and 2 Short papers) : </h5>
 
 127         Niyazi Sorkunlu, Varun Chandola and Abani Patra. Tracking System Behavior from Resource Usage Data    
 
@@ -412,9 +373,7 @@ Session 17: Applications, Algorithms, and Libraries
 102         Zhongqi An, Zhengyu Zhang and Qiang Li. Optimizing the Datapath for Key-value Middleware with NVMe SSDs over RDMA Interconnects   
 
 
-Session 18: Programming and Systems Software
-
-2F+2S papers:
+<h5>Session 18: Programming and Systems Software (2 Full and 2 Short papers) : </h5>
 
 36         Li Han, Louis-Claude Canon, Henri Casanova, Yves Robert and Frédéric Vivien. Checkpointing Workflows for Fail-Stop Errors  
 
@@ -425,27 +384,23 @@ Session 18: Programming and Systems Software
 4         Maruf Ahmed and Albert Zomaya. The Effect of Resource Allocation and System Events on the Consolidated Virtual Machines Performance
 
 
-Session 19: Applications, Algorithms, and Libraries
+<h5>Session 19: Applications, Algorithms, and Libraries (2 Full and 2 Short papers) : </h5>
 
-2F papers+2S papers:
+6            Stefano Iannucci, Hisham A. Kholidy, Amrita Dhakal Ghimire, Rui Jia, Sherif Abdelwahed and Ioana Banicescu. A Comparison of Graph-Based Synthetic Data Generators for Benchmarking Next-Generation Intrusion Detection Systems
 
- 6            Stefano Iannucci, Hisham A. Kholidy, Amrita Dhakal Ghimire, Rui Jia, Sherif Abdelwahed and Ioana Banicescu. A Comparison of Graph-Based Synthetic Data Generators for Benchmarking Next-Generation Intrusion Detection Systems
+286         David Rohr and Volker Lindenstruth. Fast failure erasure encoding using just in time compilation for CPUs, GPUs, and FPGAs    
 
- 286         David Rohr and Volker Lindenstruth. Fast failure erasure encoding using just in time compilation for CPUs, GPUs, and FPGAs    
+142         Takashi Shimokawabe, Toshio Endo, Naoyuki Onodera and Takayuki Aoki. A Stencil Framework to Realize Large-scale Computations Beyond Device Memory Capacity on GPU Supercomputers    
 
- 142         Takashi Shimokawabe, Toshio Endo, Naoyuki Onodera and Takayuki Aoki. A Stencil Framework to Realize Large-scale Computations Beyond Device Memory Capacity on GPU Supercomputers    
-
- 206         Jong Youl Choi, Jeremy Logan, Matthew Wolf, George Ostrouchov, Tahsin Kurc, Gary Liu, Norbert Podhorszki, Scott Klasky, Melissa Romanus, Qian Sun, Manish Parashar, Randy Michael Churchill and Choong-Seock Chang. TGE: Machine Learning Based Task Graph Embedding for Large-scale Topology Mapping   
+206         Jong Youl Choi, Jeremy Logan, Matthew Wolf, George Ostrouchov, Tahsin Kurc, Gary Liu, Norbert Podhorszki, Scott Klasky, Melissa Romanus, Qian Sun, Manish Parashar, Randy Michael Churchill and Choong-Seock Chang. TGE: Machine Learning Based Task Graph Embedding for Large-scale Topology Mapping   
 
 
- Session 20: Programming and Systems Software
+<h5>Session 20: Programming and Systems Software (1 Full and 2 Short papers) : </h5>
 
-1F paper+2S papers:
+292         Pengfei Zou, Tyler Allen, Clauded Davis, Xizhou Feng and Rong Ge. CLIP: Cluster-Level Intelligent Power Coordination for Power-Bounded Systems
 
- 292         Pengfei Zou, Tyler Allen, Clauded Davis, Xizhou Feng and Rong Ge. CLIP: Cluster-Level Intelligent Power Coordination for Power-Bounded Systems
+228         Scott Levy, Kurt Ferreira and Patrick Bridges. Detecting and Correcting Silent Corruption of Read-Mostly Application Data 
 
- 228         Scott Levy, Kurt Ferreira and Patrick Bridges. Detecting and Correcting Silent Corruption of Read-Mostly Application Data 
-
- 180         Nathan Hjelm, Matthew Dosanjh, Taylor Groves, Ryan E. Grant, Ron Brightwell, Patrick Bridges and Dorian Arnold. MPI Multi-threaded RMA Communication Performance for Next-Generation Applications   
+180         Nathan Hjelm, Matthew Dosanjh, Taylor Groves, Ryan E. Grant, Ron Brightwell, Patrick Bridges and Dorian Arnold. MPI Multi-threaded RMA Communication Performance for Next-Generation Applications   
 
 
