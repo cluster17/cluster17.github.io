@@ -33,7 +33,7 @@ header:
  <tr>
   <th width="25"> H </th>
   <th width="25"> M </th>
-  <th width="100"> Honolulu  </th>
+  <th width="100">   </th>
   <th width="100"> Honolulu </th>
   <th width="100"> Kahuku </th>
   <th width="100"> Honolulu </th>
