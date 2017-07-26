@@ -59,7 +59,7 @@ header:
 
  <tr>
   <td> 30 </td>
-  <td colspan="1" rowspan="4"> Workshop 1 </td>
+  <td colspan="1" rowspan="4"> Workshop </td>
   <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 1 * </td>
   <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 2 * </td>
   <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 3 * </td>
@@ -91,7 +91,7 @@ header:
  <tr>
   <td rowspan="2"> 11 </td>
   <td> 00 </td>
-  <td colspan="1" rowspan="3"> Workshop 2 </td>
+  <td colspan="1" rowspan="3"> Workshop </td>
   <td colspan="1" rowspan="3"><b> Session 02 : </b> Algorithms </td>
   <td colspan="1" rowspan="3"><b> Session 03 : </b> Big Data and HPC </td>
   <td colspan="1" rowspan="3"><b> Session 09 : </b> High-Performance Big Data Analytics </td>
@@ -126,7 +126,7 @@ header:
  <tr>
   <td rowspan="2"> 14 </td>
   <td> 00 </td>
-  <td colspan="1" rowspan="3"> Workshop 3 </td>
+  <td colspan="1" rowspan="3"> Workshop </td>
   <td colspan="1" rowspan="3"><b> Session 04 : </b> Performance and Energy Modeling and Analysis </td>
   <td colspan="1" rowspan="3"><b> Session 05 : </b> Resource Management and Runtime Systems </td>
   <td colspan="2" rowspan="3" style="text-align:center; vertical-align:middle; font-size:20px;"> Panel * </td>
@@ -151,7 +151,7 @@ header:
  <tr>
   <td rowspan="2"> 16 </td>
   <td> 00 </td>
-  <td colspan="1" rowspan="4"> Workshop 4 </td>
+  <td colspan="1" rowspan="4"> Workshop </td>
   <td colspan="1" rowspan="4"><b> Session 06 : </b> Memory and Networks </td>
   <td colspan="1" rowspan="4"><b> Session 07 : </b> Virtualisation and I/O </td>
   <td colspan="1" rowspan="4"><b> Session 11 : </b> Emerging Architectures and Parallel Programming </td>
