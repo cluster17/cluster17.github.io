@@ -76,7 +76,7 @@ disciplines involved in creating and using representative applications can
 share important discoveries and lessons learned from these applications.
 
 
-<h2>Re-Emergence of Vector Architectures Workshop (Rev-A)</h2>
+<h2><a href="https://rev-a.github.io/">Re-Emergence of Vector Architectures Workshop (Rev-A)</a></h2>
 
 The commoditization of high performance computing to a broader range of
 applications coupled with the reduction in performance improvement from
