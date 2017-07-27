@@ -246,13 +246,11 @@ header:
    An Huynh and Kenjiro Taura. <b>Delay Spotter: A Tool for Spotting Scheduler-Caused Delays in Task Parallel Runtime Systems    </b>
 
 
-<h5>Session 5: Resource Management and Runtime Systems (2 Full and 2 Short papers) : </h5>
+<h5>Session 5: Resource Management and Runtime Systems (2 Full and 1 Short papers) : </h5>
 
    Harald Servat, Antonio J. Peña, Germán Llort, Estanislao Mercadal, Hans-Christian Hoppe and Jesus Labarta. <b>Automating the Application Data Placement in Hybrid Memory Systems  </b>
 
    Mohammadreza Hoseinyfarahabady, Albert Zomaya and Zahir Tari. <b>Towards QoS- &nbsp;Contention- Aware Resource Provisioning in Streaming Processing Engine    </b>
-
-   Nathan Hjelm, Matthew Dosanjh, Taylor Groves, Ryan E. Grant, Ron Brightwell, Patrick Bridges and Dorian Arnold. <b>MPI Multi-threaded RMA Communication Performance for Next-Generation Applications   </b>
 
    Xiang Ni, Nikhil Jain, Kavitha Chandrasekar and Laxmikant Kale. <b>Runtime Techniques for Programming with Fast and Slow Memory </b>
 
