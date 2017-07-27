@@ -209,6 +209,7 @@ header:
 
 <b> (*) These sessions are held in the Lanai room. </b><br>
 
+<h4>Sessions : </h4>
 
 <h5>Session 1: Best Papers 1 (Areas 1 and 2) : </h5>
 
@@ -400,5 +401,13 @@ header:
    Scott Levy, Kurt Ferreira and Patrick Bridges. <b>Detecting and Correcting Silent Corruption of Read-Mostly Application Data </b>
 
    Omer Subasi and Sriram Krishnamoorthy. <b>A Gaussian Process Approach for Effective Soft Error Detection </b>  
+
+<h4>Workshops : </h4>
+
+<li> Rev-A : Ewa Room </li>
+<li> FTS : Honolulu Room </li>
+<li> HPCMASPA : Kahuku Room </li>
+<li> WRAp : Oahu Room </li>
+<li> DOE/MEXT : Waialua Room </li>
 
 
