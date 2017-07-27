@@ -11,7 +11,7 @@ header:
    permalink: "/contact/"
 ---
 
-The early registration deadline is <b>July 31st, 2017</b>.
+The early registration deadline is <b>August 7th, 2017</b>.
 
 | Advance Registration | Early Registration | Late/Onsite Registration |
 |---|:-:|:-:|
