@@ -60,9 +60,9 @@ header:
  <tr>
   <td> 30 </td>
   <td colspan="1" rowspan="4"> Workshop </td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 1 * </td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 2 * </td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 3 * </td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> <b> Keynote 1: </b> Dr. Derek Chiou, Microsoft and The University of Texas at Austin</td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> <b> Keynote 2: </b> Dr. David Richards, Lawrence Livermore National Laboratory</td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> <b> Keynote 3: </b> Kate Keahy, Argonne National Laboratory</td>
  </tr>
 
  <tr>
