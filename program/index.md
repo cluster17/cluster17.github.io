@@ -45,11 +45,14 @@ header:
  <tr>
   <td rowspan="2"> 07 </td>
   <td> 00 </td>
-  <td colspan="7" rowspan="3" style="text-align:center; vertical-align:middle; font-size:20px;"> Registration Open </td>
- </tr>
+   <td colspan="7"> </td>
+   
+  </tr>
 
  <tr>
   <td> 30 </td>
+ <td colspan="7" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Registration Open </td>
+
  </tr>
 
  <tr>
