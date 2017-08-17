@@ -28,6 +28,8 @@ To proceed with your registration , please use the following <a
 href="https://www.regonline.com/cluster2017the2017ieeeinternationalconferenceonclu">
 <b>link</b></a>.
 
+Registraton can be cancelled until August 25 with a refund of original registration fee minus a processing fee. No refund is provided on or after August 26.
+
 <br>
 
 <img src="img/sighpc.png" width="200">
