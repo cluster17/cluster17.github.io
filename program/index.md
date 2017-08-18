@@ -63,9 +63,9 @@ header:
  <tr>
   <td> 30 </td>
   <td colspan="1" rowspan="4"> Workshop </td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle;"> <b> Keynote 1: </b><br> Dr. Derek Chiou, Microsoft and The University of Texas at Austin</td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle;"> <b> Keynote 2: </b><br> Dr. David Richards, Lawrence Livermore National Laboratory</td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle;"> <b> Keynote 3: </b><br> Kate Keahy, Argonne National Laboratory</td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle;"> <b> Keynote 1 * : </b><br> Dr. Derek Chiou, Microsoft and The University of Texas at Austin</td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle;"> <b> Keynote 2 * : </b><br> Dr. David Richards, Lawrence Livermore National Laboratory</td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle;"> <b> Keynote 3 * : </b><br> Kate Keahy, Argonne National Laboratory</td>
  </tr>
 
  <tr>
