@@ -45,11 +45,14 @@ header:
  <tr>
   <td rowspan="2"> 07 </td>
   <td> 00 </td>
-  <td colspan="7" rowspan="3" style="text-align:center; vertical-align:middle; font-size:20px;"> Registration Open </td>
- </tr>
+   <td colspan="7"> </td>
+
+  </tr>
 
  <tr>
   <td> 30 </td>
+ <td colspan="7" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Registration Open </td>
+
  </tr>
 
  <tr>
@@ -60,9 +63,9 @@ header:
  <tr>
   <td> 30 </td>
   <td colspan="1" rowspan="4"> Workshop </td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 1 * <br> Dr. Derek Chiou </td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 2 * <br> Dr. David Richards </td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 3 * <br> Dr. Kate Keahey </td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle;"> <b> Keynote 1 * : </b><br> Dr. Derek Chiou, <br> Microsoft and The University of Texas at Austin</td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle;"> <b> Keynote 2 * : </b><br> Dr. David Richards, <br> Lawrence Livermore National Laboratory</td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle;"> <b> Keynote 3 * : </b><br> Dr. Kate Keahey, <br> Argonne National Laboratory</td>
  </tr>
 
  <tr>
@@ -209,6 +212,7 @@ header:
 
 <b> (*) These sessions are held in the Lanai room. </b><br>
 
+<h4>Sessions : </h4>
 
 <h4>Keynote 1 : Specializing Data Centers using Reconfigurable Logic </h4>
 
@@ -311,13 +315,11 @@ to support new modes of usage.
    An Huynh and Kenjiro Taura. <b>Delay Spotter: A Tool for Spotting Scheduler-Caused Delays in Task Parallel Runtime Systems    </b>
 
 
-<h5>Session 5: Resource Management and Runtime Systems (2 Full and 2 Short papers) : </h5>
+<h5>Session 5: Resource Management and Runtime Systems (2 Full and 1 Short papers) : </h5>
 
    Harald Servat, Antonio J. Peña, Germán Llort, Estanislao Mercadal, Hans-Christian Hoppe and Jesus Labarta. <b>Automating the Application Data Placement in Hybrid Memory Systems  </b>
 
    Mohammadreza Hoseinyfarahabady, Albert Zomaya and Zahir Tari. <b>Towards QoS- &nbsp;Contention- Aware Resource Provisioning in Streaming Processing Engine    </b>
-
-   Nathan Hjelm, Matthew Dosanjh, Taylor Groves, Ryan E. Grant, Ron Brightwell, Patrick Bridges and Dorian Arnold. <b>MPI Multi-threaded RMA Communication Performance for Next-Generation Applications   </b>
 
    Xiang Ni, Nikhil Jain, Kavitha Chandrasekar and Laxmikant Kale. <b>Runtime Techniques for Programming with Fast and Slow Memory </b>
 
@@ -467,5 +469,13 @@ to support new modes of usage.
    Scott Levy, Kurt Ferreira and Patrick Bridges. <b>Detecting and Correcting Silent Corruption of Read-Mostly Application Data </b>
 
    Omer Subasi and Sriram Krishnamoorthy. <b>A Gaussian Process Approach for Effective Soft Error Detection </b>  
+
+<h4>Workshops : </h4>
+
+<li> Rev-A : Ewa Room </li>
+<li> FTS : Honolulu Room </li>
+<li> HPCMASPA : Kahuku Room </li>
+<li> WRAp : Oahu Room </li>
+<li> DOE/MEXT : Waialua Room </li>
 
 

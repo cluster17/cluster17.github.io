@@ -11,7 +11,7 @@ header:
    permalink: "/contact/"
 ---
 
-The early registration deadline is <b>July 31st, 2017</b>.
+The early registration deadline is <b>August 7th, 2017</b>.
 
 | Advance Registration | Early Registration | Late/Onsite Registration |
 |---|:-:|:-:|
@@ -27,6 +27,8 @@ paper” for each additional paper they will present at a cost of $650.
 To proceed with your registration , please use the following <a
 href="https://www.regonline.com/cluster2017the2017ieeeinternationalconferenceonclu">
 <b>link</b></a>.
+
+Registraton can be cancelled until August 25 with a refund of original registration fee minus a processing fee. No refund is provided on or after August 26.
 
 <br>
 
