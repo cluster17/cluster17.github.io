@@ -60,9 +60,9 @@ header:
  <tr>
   <td> 30 </td>
   <td colspan="1" rowspan="4"> Workshop </td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 1 * </td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 2 * </td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 3 * </td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 1 * <br> Dr. Derek Chiou </td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 2 * <br> Dr. David Richards </td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Keynote 3 * <br> Dr. Kate Keahey </td>
  </tr>
 
  <tr>
@@ -208,6 +208,71 @@ header:
 </table>
 
 <b> (*) These sessions are held in the Lanai room. </b><br>
+
+
+<h4>Keynote 1 : Specializing Data Centers using Reconfigurable Logic </h4>
+
+
+<h5>Speaker : Dr. Derek Chiou, Microsoft and The University of Texas at Austin</h5>
+
+<b>Abstract : </b> Introducing reconfigurable logic into data center servers
+provides both the benefits of specialized hardware and the convenience of
+homogeneous hardware.  Placing an FPGA in the network path as well as attached
+to the server via PCIe enables an FPGA-centric computational model, in contrast
+to the CPU-centric computational model that pervades computing today. In an
+FPGA-centric model, the FPGA is the first to process each packet and only
+passes the packets it cannot handle to the CPU that acts as a complexity
+offload engine. Microsoft has deployed such an architecture throughout its
+cloud and implements a wide range of capabilities, including deep neural
+networks and software defined networking acceleration, on it. I will describe
+Microsoft's Configurable Cloud, some cases of how it is used, and the resulting
+performance.
+
+<b>Bio : </b> Derek Chiou is a Partner Architect at Microsoft where he leads
+the Azure Cloud Silicon team working on FPGAs and ASICs for data center
+applications and infrastructure and a researcher in the Electrical and Computer
+Engineering Department at The University of Texas at Austin. His research areas
+are FPGA acceleration, high-performance computer simulation, rapid system
+design, computer architecture, parallel computing, Internet router
+architecture, and network processors. Before going to UT, Dr. Chiou was a
+system architect and lead the performance modeling team at Avici Systems, a
+manufacturer of terabit core routers. Dr. Chiou received his Ph.D., S.M. and
+S.B. degrees in Electrical Engineering and Computer Science from MIT.
+
+<h4>Keynote 2 : Dr. David Richards, Lawrence Livermore National Laboratory</h4>
+
+<h5>Speaker : Dr. David Richards, Lawrence Livermore National Laboratory</h5>
+
+<b>Abstract : </b> TBD.
+
+<h4>Keynote 3 : At the Crossroads of HPC and Big Data</h4>
+
+<h5>Speaker : Dr. Kate Keahey, Argonne National Laboratory </h5>
+
+<b>Abstract : </b> Experiments, data, and computation have always been
+inextricably linked and are even more so today. Large experimental instruments,
+equipped with millions of sensors, and producing hundreds of terabytes of data
+per experiment will be used more efficiently if extended with a computational
+facility providing the scientist with ongoing insight into data. This
+relationship is becoming stronger as recently these sensors have left the lab
+and started multiplying at large: inexpensive and increasingly sophisticated
+sensor devices now allow scientists to instrument forests, oceans or cities
+turning our planet into an "instrument at large" and providing unprecedented
+opportunities in geophysical, environmental, and social sciences. All this is
+creating demand to process more data, faster, and produce results in a more
+timely fashion.  This presentation will describe how emergent technology is
+creating potential for new avenues of exploration and how this potential is
+translated into new scientific applications – but also new infrastructure
+requirements and new ideas on how computing can support science. I will give
+examples of different approaches explored by various scientific application
+groups and discuss ideas on what we can do to catalyze change in tools and
+infrastructure – from specific solutions to changes in experimental approach --
+to support new modes of usage.
+
+
+
+
+
 
 
 <h5>Session 1: Best Papers 1 (Areas 1 and 2) : </h5>
