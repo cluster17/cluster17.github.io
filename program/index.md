@@ -212,12 +212,11 @@ header:
 
 <b> (*) These sessions are held in the Lanai room. </b><br>
 
-<h4>Sessions : </h4>
 
 <h4>Keynote 1 : Specializing Data Centers using Reconfigurable Logic </h4>
 
 
-<h5>Speaker : Dr. Derek Chiou, Microsoft and The University of Texas at Austin</h5>
+<h5>Speaker : Dr. Derek Chiou, Microsoft and The University of Texas at Austin</h5><br>
 
 <b>Abstract : </b> Introducing reconfigurable logic into data center servers
 provides both the benefits of specialized hardware and the convenience of
@@ -245,13 +244,13 @@ S.B. degrees in Electrical Engineering and Computer Science from MIT.
 
 <h4>Keynote 2 : Dr. David Richards, Lawrence Livermore National Laboratory</h4>
 
-<h5>Speaker : Dr. David Richards, Lawrence Livermore National Laboratory</h5>
+<h5>Speaker : Dr. David Richards, Lawrence Livermore National Laboratory</h5><br>
 
 <b>Abstract : </b> TBD.
 
 <h4>Keynote 3 : At the Crossroads of HPC and Big Data</h4>
 
-<h5>Speaker : Dr. Kate Keahey, Argonne National Laboratory </h5>
+<h5>Speaker : Dr. Kate Keahey, Argonne National Laboratory </h5><br>
 
 <b>Abstract : </b> Experiments, data, and computation have always been
 inextricably linked and are even more so today. Large experimental instruments,
@@ -274,9 +273,7 @@ infrastructure – from specific solutions to changes in experimental approach -
 to support new modes of usage.
 
 
-
-
-
+<h4>Sessions : </h4>
 
 
 <h5>Session 1: Best Papers 1 (Areas 1 and 2) : </h5>
