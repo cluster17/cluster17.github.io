@@ -469,7 +469,7 @@ to support new modes of usage.
 
 <h4>Workshops : </h4>
 
-<li> Rev-A : Ewa Room </li>
+<li> Rev-A : Waianae Room </li>
 <li> FTS : Honolulu Room </li>
 <li> HPCMASPA : Kahuku Room </li>
 <li> WRAp : Oahu Room </li>
