@@ -381,7 +381,7 @@ to support new modes of usage.
    Hari Subramoni, Xiaoyi Lu and Dhabaleswar Panda. <b>A Scalable Network-Based Performance Analysis Tool for MPI on Large-Scale HPC Systems   </b>
   
 
-<h5>Session 12: Data Storage and Processing (2 Full and 3 Short papers) : </h5>
+<h5>Session 12: Data Storage and Processing (2 Full and 2 Short papers) : </h5>
 
    Houjun Tang, Suren Byna, Bin Dong, Jialin Liu and Quincey Koziol. <b>SoMeta: Scalable Object-centric Metadata Management for High Performance Computing  </b>
 
@@ -390,8 +390,6 @@ to support new modes of usage.
    Hongliang Li, Jie Wu, Zhen Jiang, Xiang Li and Xiaohui Wei. <b>Task Allocation for Stream Processing with Recovery Latency Guarantee </b>
 
    Ashish Tapdiya, Yuan Xue and Daniel Fabbri. <b>A Comparative Analysis of Materialized Views Selection and Concurrency Control Mechanisms in NoSQL Databases    </b>
-
-   Hui Sun, Wei Liu, Weisong Shi and Jianzhong Huang. <b>COL-KV: A Collaborative Key-Value Store Using Near-Data Processing   </b>
 
 
 <h5>Session 13: Scheduling (2 Full papers) : </h5>
