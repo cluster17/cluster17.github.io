@@ -99,5 +99,19 @@ architectures are still evolving, particularly on emerging languages and
 runtimes.
 
 
+<h2>Workshop on Japan-USA Collaboration for Extreme-scale System Software</h2>
 
+
+In 2014, a bi-lateral, international coordination agreement between the US
+Department of Energy and the Japan Ministry of Education, Culture, Sports,
+Science, and Technology was signed.  The US and Japan are working together on
+system software research for future platforms.  The effort is focused on
+trans-petascale systems — those future extreme-scale systems that being planned
+for the future deployment. Research topics include node operating system and
+runtime, high performance communication layers, storage and I/O, programming
+models, and power control.  This workshop will include a brief overview of the
+HPC plans for Japanese Flagship2020 project and the US Exascale Computing
+Project followed by specific reports on collaboration and scientific results.
+We will end the workshop by exploring future directions in research to address
+next-generation extreme-scale platforms.
 
