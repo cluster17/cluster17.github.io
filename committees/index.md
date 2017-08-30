@@ -17,7 +17,7 @@ header:
 <h3>General Co-chairs: </h3>
 
 Todd Gamblin, Lawrence Livermore National Laboratory, USA<br>
-Naoya Maruyama, Riken, Japan<br>
+Naoya Maruyama, Lawrence Livermore National Laboratory, USA<br>
 
 <h2>Technical Program</h2>
 
