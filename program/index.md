@@ -276,14 +276,14 @@ to support new modes of usage.
 <h4>Sessions : </h4>
 
 
-<h5>Session 1: Best Papers 1 (Areas 1 and 2) : </h5>
+<h5>Session 1: Best Papers 1 (Areas 1 and 2) (Chair : Gabriel Antoniu) : </h5>
 
    Tahsin Reza, Christine Klymko, Geoffrey Sanders, Roger Pearce and Matei Ripeanu. <b>Towards Practical and Robust Labeled Pattern Matching in Trillion-Edge Graphs </b>
 
    Sourav Chakraborty, Hari Subramoni and Dhabaleswar Panda. <b>Contention-Aware Kernel-Assisted MPI Collectives for Multi/Many-core Systems   </b>
 
 
-<h5>Session 2: Algorithms (3 Full papers) : </h5>
+<h5>Session 2: Algorithms (3 Full papers) (Chair : Alexandru Costan) : </h5>
 
    Willian Barreiros Jr., George Teodoro, Tahsin Kurc, Jun Kong, Alba Cristina M. A. Melo and Joel Saltz. <b>Parallel and Efficient Sensitivity Analysis of Microscopy Image Segmentation Workflows in Hybrid Systems    </b>
 
@@ -292,7 +292,7 @@ to support new modes of usage.
    Bangtian Liu, Chengyao Wen, Anand D. Sarwate and Maryam Mehri Dehnavi. <b>A Unified Optimization Approach for Sparse Tensor Operations on GPUs    </b>
 
 
-<h5>Session 3: Big Data and HPC (2 Full and 2 Short papers) : </h5>
+<h5>Session 3: Big Data and HPC (2 Full and 2 Short papers) (Chair : Osamu Tatebe) : </h5>
 
    Tao Lu, Eric Suchyta, Dave Pugmire, Jong Choi, Scott Klasky, Qing Liu, Norbert Podhorszki, Mark Ainsworth and Matthew Wolf. <b>Canopus: A Paradigm Shift Towards Elastic Extreme-Scale Data Analytics on HPC Storage    </b>
 
@@ -303,7 +303,7 @@ to support new modes of usage.
    Orcun Yildiz, Amelie Chi Zhou and Shadi Ibrahim. <b>Eley: On the Effectiveness of Burst Buffers for Big Data Processing in HPC systems</b>
 
 
-<h5>Session 4: Performance and Energy Modeling and Analysis (3 Full papers) : </h5>
+<h5>Session 4: Performance and Energy Modeling and Analysis (3 Full papers) (Chair : Olga Pierce) : </h5>
 
    Franz C. Heinrich, Tom Cornebize, Augustin Degomme, Arnaud Legrand, Alexandra Carpen-Amarie, Sascha Hunold, Anne-Cécile Orgerie and Martin Quinson. <b>Predicting the Energy-Consumption of MPI Applications at Scale Using Only a Single Node</b>
   
@@ -312,7 +312,7 @@ to support new modes of usage.
    An Huynh and Kenjiro Taura. <b>Delay Spotter: A Tool for Spotting Scheduler-Caused Delays in Task Parallel Runtime Systems    </b>
 
 
-<h5>Session 5: Resource Management and Runtime Systems (2 Full and 1 Short papers) : </h5>
+<h5>Session 5: Resource Management and Runtime Systems (2 Full and 1 Short papers) (Chair : Dong Li) : </h5>
 
    Harald Servat, Antonio J. Peña, Germán Llort, Estanislao Mercadal, Hans-Christian Hoppe and Jesus Labarta. <b>Automating the Application Data Placement in Hybrid Memory Systems  </b>
 
@@ -321,7 +321,7 @@ to support new modes of usage.
    Xiang Ni, Nikhil Jain, Kavitha Chandrasekar and Laxmikant Kale. <b>Runtime Techniques for Programming with Fast and Slow Memory </b>
 
 
-<h5>Session 6: Memory and Networks (3 Full and 1 Short papers) : </h5>
+<h5>Session 6: Memory and Networks (3 Full and 1 Short papers) (Chair : Bronis De Supinski) : </h5>
 
    Yang Li, Saugata Ghose, Jongmoo Choi, Jin Sun, Hui Wang and Onur Mutlu. <b>Utility-Based Hybrid Memory Management    </b>
 
@@ -332,7 +332,7 @@ to support new modes of usage.
    Mauro Ianni, Alessandro Pellegrini and Francesco Quaglia. <b>A Wait-free Multi-word Atomic (1,N) Register for Large-scale Data Sharing on Multi-core Machines   </b>
    
 
-<h5>Session 7: Visualization and I/O (3 Full  and 1 Short papers) : </h5>
+<h5>Session 7: Visualization and I/O (3 Full  and 1 Short papers) (Chair : Toni Cortes) : </h5>
 
    Jianping Li, Misbah Mubarak, Kwan-Liu Ma, Robert Ross and Christopher Carothers. <b>Visual Analytics Techniques for Exploring the Design Space of Large-Scale High-Radix Networks    </b>
 
@@ -343,14 +343,14 @@ to support new modes of usage.
    Hyungsoo Jung, Sooyong Kang, Hyuck Han, Hyeongwon Jang, Sang Youp Rhee and Jae Eun Kim. <b>AutoBahn: Accelerating Concurrent, Durable File I/O via a Non-Volatile Buffer   </b>
 
 
-<h5>Session 8: Best Papers 2 (Areas 3 and 4) : </h5>
+<h5>Session 8: Best Papers 2 (Areas 3 and 4) (Chair : Rich Vuduc) : </h5>
 
    Stratos Dimopoulos, Chandra Krintz and Rich Wolski. <b>JUSTICE: A Deadline-aware, Fair-share Resource Allocator for Implementing Multi-analytics    </b>
 
    Jaehyun Han, Donghun Koo, Glenn K. Lockwood, Jaehwan Lee, Hyeonsang Eom and Soonwook Hwang. <b>Accelerating a burst buffer via user-level I/O isolation.</b>
 
 
-<h5>Session 9: High Performance Big Data Analytics (3 Full papers) : </h5>
+<h5>Session 9: High Performance Big Data Analytics (3 Full papers) (Chair : Pierre Matri) : </h5>
 
    Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong and Xiaokui Xiao. <b>GraphH: High Performance Big Graph Analytics in Small Clusters    </b>
 
@@ -359,7 +359,7 @@ to support new modes of usage.
    Stefano Iannucci, Hisham A. Kholidy, Amrita Dhakal Ghimire, Rui Jia, Sherif Abdelwahed and Ioana Banicescu. <b>A Comparison of Graph-Based Synthetic Data Generators for Benchmarking Next-Generation Intrusion Detection Systems</b>
 
 
-<h5>Session 10: Virtualization (3 Full papers) : </h5>
+<h5>Session 10: Virtualization (3 Full papers) (Chair : Leonardo Bautista-Gomez) : </h5>
 
    Panagiotis Patros, Dayal Dilli, Kenneth Kent and Michael Dawson. <b>Dynamically Compiled Artifact Sharing for Clouds   </b>
 
@@ -368,7 +368,7 @@ to support new modes of usage.
    Andrew Younge, Kevin Pedretti, Ryan Grant and Ron Brightwell. <b>Enabling Diverse Software Stacks on Supercomputers using High Performance Virtual Clusters    </b>
 
 
-<h5>Session 11: Emerging Architectures and Parallel Processing (2 Full and 3 Short papers) : </h5>
+<h5>Session 11: Emerging Architectures and Parallel Processing (2 Full and 3 Short papers) (Chair : Frank Mueller) : </h5>
 
    Vicente Adolfo Bolea Sanchez, Wonbae Kim, Youngmoon Eom, Kibeom Jin, Moohyeon Nam, Deukyeon Hwang, Jik-Soo Kim and Beomseok Nam. <b>EclipseMR: Distributed and Parallel Task Processing with Consistent Hashing   </b>
 
@@ -381,7 +381,7 @@ to support new modes of usage.
    Hari Subramoni, Xiaoyi Lu and Dhabaleswar Panda. <b>A Scalable Network-Based Performance Analysis Tool for MPI on Large-Scale HPC Systems   </b>
   
 
-<h5>Session 12: Data Storage and Processing (2 Full and 2 Short papers) : </h5>
+<h5>Session 12: Data Storage and Processing (2 Full and 2 Short papers) (Chair : Maria S. Perez) : </h5>
 
    Houjun Tang, Suren Byna, Bin Dong, Jialin Liu and Quincey Koziol. <b>SoMeta: Scalable Object-centric Metadata Management for High Performance Computing  </b>
 
@@ -392,21 +392,21 @@ to support new modes of usage.
    Ashish Tapdiya, Yuan Xue and Daniel Fabbri. <b>A Comparative Analysis of Materialized Views Selection and Concurrency Control Mechanisms in NoSQL Databases    </b>
 
 
-<h5>Session 13: Scheduling (2 Full papers) : </h5>
+<h5>Session 13: Scheduling (2 Full papers) (Chair : Sriram Krishnamoorthy) : </h5>
 
    Jens Gustedt, Emmanuel Jeannot and Farouk Mansouri. <b>Automatic, Abstracted and Portable Topology-Aware Thread Placement   </b>
 
    Jens Breitbart, Simon Pickartz, Josef Weidendorfer, Stefan Lankes and Antonello Monti. <b>Dynamic Co-scheduling Driven by Main Memory Bandwidth Utilization   </b>
 
 
-<h5>Session 14: Performance Profiling (2 Full papers) : </h5>
+<h5>Session 14: Performance Profiling (2 Full papers) (Chair : Yves Robert) : </h5>
 
    Niyazi Sorkunlu, Varun Chandola and Abani Patra. <b>Tracking System Behavior from Resource Usage Data    </b>
 
    David Boehme, David Beckingsale and Martin Schulz. <b>Flexible Data Aggregation for Performance Profiling   </b>
     
 
-<h5>Session 15: Leveraging Accelerated Systems (3 Full papers) : </h5>
+<h5>Session 15: Leveraging Accelerated Systems (3 Full papers) (Chair : Misbah Mubarak) : </h5>
 
    Masahiro Nakao, Hitoshi Murai, Hidetoshi Iwashita, Akihiro Tabuchi, Taisuke Boku and Mitsuhisa Sato. <b>Implementing Lattice QCD Application with XcalableACC Language on Accelerated Cluster    </b>
 
@@ -415,7 +415,7 @@ to support new modes of usage.
    David Rohr and Volker Lindenstruth. <b>Fast failure erasure encoding using just in time compilation for CPUs, GPUs, and FPGAs    </b>
 
 
-<h5>Session 16: Fault Tolerance (3 Full papers) : </h5>
+<h5>Session 16: Fault Tolerance (3 Full papers) (Chair : Frederic Vivien) : </h5>
 
    Omer Subasi, Sriram Krishnamoorthy and Gokcen Kestor. <b>Toward A General Theory of Optimal Checkpoint Placement  </b>
 
@@ -424,7 +424,7 @@ to support new modes of usage.
    Li Han, Louis-Claude Canon, Henri Casanova, Yves Robert and Frédéric Vivien. <b>Checkpointing Workflows for Fail-Stop Errors  </b>
 
 
-<h5>Session 17: Numerical Methods and Libraries (2 Full and 2 Short papers) : </h5>
+<h5>Session 17: Numerical Methods and Libraries (2 Full and 2 Short papers) (Chair : Olga Pierce) : </h5>
 
    Matt Martineau and Simon Mcintosh-Smith. <b>Exploring on-node parallelism with neutral, a Monte Carlo neutral particle transport mini-app   </b>
 
@@ -435,7 +435,7 @@ to support new modes of usage.
    Takashi Shimokawabe, Toshio Endo, Naoyuki Onodera and Takayuki Aoki. <b>A Stencil Framework to Realize Large-scale Computations Beyond Device Memory Capacity on GPU Supercomputers    </b>
 
 
-<h5>Session 18: Programming and Systems Software (2 Full and 2 Short papers) : </h5>
+<h5>Session 18: Programming and Systems Software (2 Full and 2 Short papers) (Chair : Sriram Krishnamoorthy) : </h5>
 
    Yuping Fan, Paul Rich, William Allcock, Michael Papka and Zhiling Lan. <b>Trade-off between Prediction Accuracy and Underestimation Rate in Job Runtime Estimates    </b>
 
@@ -446,7 +446,7 @@ to support new modes of usage.
    Maruf Ahmed and Albert Zomaya. <b>The Effect of Resource Allocation and System Events on the Consolidated Virtual Machines Performance</b>
 
 
-<h5>Session 19: Algorithms and Tools for I/O and Big Data Management (2 Full and 2 Short papers) : </h5>
+<h5>Session 19: Algorithms and Tools for I/O and Big Data Management (2 Full and 2 Short papers) (Chair : Naoya Maruyama) : </h5>
 
    Jeremy Logan, Jong Choi, Matthew Wolf, George Ostrouchov, Lipeng Wan, Norbert Podhorszki, William Godoy, Erich Lohrmann, Greg Eisenhauer, Chad Wood, Kevin Huck and Scott Klasky. <b>Extending Skel to support the development and optimization of next generation I/O systems   </b>
 
@@ -457,7 +457,7 @@ to support new modes of usage.
    Jong Youl Choi, Jeremy Logan, Matthew Wolf, George Ostrouchov, Tahsin Kurc, Gary Liu, Norbert Podhorszki, Scott Klasky, Melissa Romanus, Qian Sun, Manish Parashar, Randy Michael Churchill and Choong-Seock Chang. <b>TGE: Machine Learning Based Task Graph Embedding for Large-scale Topology Mapping   </b>
 
 
-<h5>Session 20: Silent Data Corruption (1 Full and 2 Short papers) : </h5>
+<h5>Session 20: Silent Data Corruption (1 Full and 2 Short papers) (Chair : Christian Engelmann) : </h5>
 
    Pierre-Louis Guhur, Emil Constantinescu, Debojyoti Ghosh, Tom Peterka and Franck Cappello. <b>Detection of Silent Data Corruption in Adaptive Numerical Integration Solvers   </b>
 
