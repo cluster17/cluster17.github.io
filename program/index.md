@@ -378,14 +378,14 @@ systems</b></li>
 Chair : Olga Pearce
 <ul>
 
+<li>Kewen Meng and
+Boyana Norris. <b>Mira: A Framework for Static Performance
+Analysis    </b></li>
+
  <li>Franz C. Heinrich, Tom Cornebize, Augustin Degomme, Arnaud
 Legrand, Alexandra Carpen-Amarie, Sascha Hunold, Anne-Cécile Orgerie and
 Martin Quinson. <b>Predicting the Energy-Consumption of MPI Applications
 at Scale Using Only a Single Node</b></li>
-
-<li>Kewen Meng and
-Boyana Norris. <b>Mira: A Framework for Static Performance
-Analysis    </b></li>
 
  <li>An Huynh and Kenjiro Taura. <b>Delay Spotter: A Tool for Spotting
 Scheduler-Caused Delays in Task Parallel Runtime Systems</b>
