@@ -30,10 +30,6 @@ Rich Vuduc, Georgia Institute of Technology, USA
 
 Bronis de Supinski, Lawrence Livermore National Laboratory, USA
 
-<h3>Panels Chair: </h3>
-
-Satoshi Matsuoka, Tokyo Institute of Technology, Japan
-
 <h3>Student Mentoring Chair: </h3>
 
 Kenneth B. Kent , University of New Brunswick, Canada
@@ -256,4 +252,3 @@ Boyana Norris, University of Oregon, USA<br>
 Seetharami Seelam, IBM Research, USA<br>
 Sameer Shende, University of Oregon, USA<br>
 Frederic Sutter, Ecole Normale Supérieure de Lyon, France<br>
-

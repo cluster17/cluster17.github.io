@@ -11,9 +11,11 @@ header:
    permalink: "/contact/"
 ---
 
-
+<a name="fts"/>
 <h2><a href="https://fts17.github.io">3rd International Workshop on Fault Tolerant Systems (FTS)</a></h2>
-
+<p/>
+<b>Held in the Honolulu Room (<a href="/images/floorplan.png">floor plan</a>) </b>
+<p/>
 Fault Tolerance is a cross-cutting issue that spans all layers of the
 hardware/software stack, and hence, requires coupled improvements in each layer
 and co-design between the different layers. FTS aims at providing a venue for
@@ -21,8 +23,12 @@ researchers to share experiences across the hardware/software layers and
 attendees to get a holistic view of fault tolerance techniques, especially with
 a focus on HPC and parallel computing.
 
-
+<a name="hpcmaspa"/>
 <h2><a href="https://sites.google.com/site/hpcmaspa2017/home">Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA)</a></h2>
+<p/>
+<b>Held in the Kahuku Room (<a href="/images/floorplan.png">floor plan</a>) </b>
+<p/>
+
 
 Architects, administrators, and users of modern high-performance computing
 (HPC) systems strive to meet goals of energy, resource, and application
@@ -53,7 +59,12 @@ monitoring, analysis, and feedback as it relates to increasing efficiency with
 respect to energy, resource utilization, and application run-time.
 
 
+<a name="wrap"/>
 <h2><a href="https://wrap17.github.io/">Workshop on Representative Applications (WRAp)</a></h2>
+<p/>
+<b>Held in the Oahu Room (<a href="/images/floorplan.png">floor plan</a>) </b>
+<p/>
+
 
 Held as part of IEEE Cluster 2017, the Second International Workshop on
 Representative Applications is concerned with the development and use of
@@ -76,7 +87,11 @@ disciplines involved in creating and using representative applications can
 share important discoveries and lessons learned from these applications.
 
 
+<a name="reva"/>
 <h2><a href="https://rev-a.github.io/">Re-Emergence of Vector Architectures Workshop (Rev-A)</a></h2>
+<p/>
+<b>Held in the Waianae Room (<a href="/images/floorplan.png">floor plan</a>) </b>
+<p/>
 
 The commoditization of high performance computing to a broader range of
 applications coupled with the reduction in performance improvement from
@@ -99,7 +114,11 @@ architectures are still evolving, particularly on emerging languages and
 runtimes.
 
 
-<h2>Workshop on Japan-USA Collaboration for Extreme-scale System Software</h2>
+<a name="doemext"/>
+<h2>Workshop on Japan-USA Collaboration for Extreme-scale System Software (DOE/MEXT)</h2>
+<p/>
+<b>Held in the Waialua Room (<a href="/images/floorplan.png">floor plan</a>) </b>
+<p/>
 
 
 In 2014, a bi-lateral, international coordination agreement between the US
@@ -114,4 +133,3 @@ HPC plans for Japanese Flagship2020 project and the US Exascale Computing
 Project followed by specific reports on collaboration and scientific results.
 We will end the workshop by exploring future directions in research to address
 next-generation extreme-scale platforms.
-
