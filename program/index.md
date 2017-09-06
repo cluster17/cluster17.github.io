@@ -446,7 +446,7 @@ Chair : Pierre Matri
 </ul>
 
 <h5>Session 10: Virtualization (3 Full papers)</h5>
-Chair : Leonardo Bautista-Gomez
+Chair : Balazs Gerofi
 <ul>
  <li>Panagiotis Patros, Dayal Dilli, Kenneth Kent and Michael Dawson. <b>Dynamically Compiled Artifact Sharing for Clouds   </b></li>
 
