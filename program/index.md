@@ -315,11 +315,18 @@ groups and discuss ideas on what we can do to catalyze change in tools and
 infrastructure – from specific solutions to changes in experimental approach --
 to support new modes of usage.
 
+<ul>
+
+<li>Full papers have a 30 minute-slot (25-minute talk + questions)</li>
+
+<li>Short papers have a 15 minute-slot (10-minute talk + questions)</li>
+
+</ul>
 
 <h4>Sessions : </h4>
 
 <br>
-<h5>Session 1: Best Papers 1 (Areas 1 and 2)</h5>
+<h5>Session 1: Best Papers 1 </h5>
 Chair : Gabriel Antoniu
 <ul>
  <li>Tahsin Reza, Christine Klymko, Geoffrey Sanders, Roger Pearce and
@@ -332,7 +339,7 @@ Chair : Gabriel Antoniu
  </li>
 </ul>
 
-<h5>Session 2: Algorithms (3 Full papers)</h5>
+<h5>Session 2: Algorithms</h5>
 Chair : Alexandru Costan
 <ul>
 
@@ -349,7 +356,7 @@ Chair : Alexandru Costan
      Dehnavi. <b>A Unified Optimization Approach for Sparse Tensor
      Operations on GPUs    </b> </li> </ul>
 
-<h5>Session 3: Big Data and HPC (2 Full and 2 Short papers)</h5>
+<h5>Session 3: Big Data and HPC </h5>
 Chair : Osamu Tatebe
 <ul>
 
@@ -364,21 +371,21 @@ Jeannot. <b>TAPIOCA: An I/O Library for Optimized Topology-Aware Data
 Aggregation on Large-Scale Supercomputers    </b>
 </li>
 
- <li>Pierre Matri, Yevhen Alforov, Álvaro Brandon, Michael Kuhn, Philip
+ <li>(Short paper) Pierre Matri, Yevhen Alforov, Álvaro Brandon, Michael Kuhn, Philip
 Carns and Thomas Ludwig. <b>Could Blobs Enable Storage-Based Convergence
 Between HPC and Big Data? </b>
 </li>
 
- <li>Orcun Yildiz, Amelie Chi Zhou and Shadi Ibrahim. <b>Eley: On the
+ <li>(Short paper) Orcun Yildiz, Amelie Chi Zhou and Shadi Ibrahim. <b>Eley: On the
 Effectiveness of Burst Buffers for Big Data Processing in HPC
 systems</b></li>
 </ul>
 
-<h5>Session 4: Performance and Energy Modeling and Analysis (3 Full papers)</h5>
+<h5>Session 4: Performance and Energy Modeling and Analysis </h5>
 Chair : Olga Pearce
 <ul>
 
-<li>Kewen Meng and
+ <li>Kewen Meng and
 Boyana Norris. <b>Mira: A Framework for Static Performance
 Analysis    </b></li>
 
@@ -393,177 +400,296 @@ Scheduler-Caused Delays in Task Parallel Runtime Systems</b>
 
 </ul>
 
-<h5>Session 5: Resource Management and Runtime Systems (2 Full and 1 Short papers)</h5>
+<h5>Session 5: Resource Management and Runtime Systems </h5>
 Chair : Dong Li
 <ul>
- <li>Harald Servat, Antonio J. Peña, Germán Llort, Estanislao Mercadal, Hans-Christian Hoppe and Jesus Labarta. <b>Automating the Application Data Placement in Hybrid Memory Systems  </b></li>
 
- <li>Mohammadreza Hoseinyfarahabady, Albert Zomaya and Zahir Tari. <b>Towards QoS- &nbsp;Contention- Aware Resource Provisioning in Streaming Processing Engine    </b></li>
+<li>Harald Servat, Antonio J. Peña, Germán Llort, Estanislao Mercadal,
+Hans-Christian Hoppe and Jesus Labarta. <b>Automating the Application Data
+Placement in Hybrid Memory Systems  </b></li>
 
- <li>Xiang Ni, Nikhil Jain, Kavitha Chandrasekar and Laxmikant Kale. <b>Runtime Techniques for Programming with Fast and Slow Memory </b></li>
+ <li>Mohammadreza Hoseinyfarahabady, Albert Zomaya and Zahir Tari. <b>Towards
+ QoS- &nbsp;Contention- Aware Resource Provisioning in Streaming Processing
+ Engine    </b></li>
+
+ <li>(Short paper) Xiang Ni, Nikhil Jain, Kavitha Chandrasekar and Laxmikant
+ Kale. <b>Runtime Techniques for Programming with Fast and Slow Memory
+ </b></li>
+
 </ul>
 
-<h5>Session 6: Memory and Networks (3 Full and 1 Short papers)</h5>
+<h5>Session 6: Memory and Networks </h5>
 Chair : Bronis De Supinski
 <ul>
- <li>Yang Li, Saugata Ghose, Jongmoo Choi, Jin Sun, Hui Wang and Onur Mutlu. <b>Utility-Based Hybrid Memory Management    </b></li>
 
- <li>Yingchao Huang and Dong Li. <b>Performance Modeling for Optimal Data Placement on GPU with Heterogeneous Memory Systems     </b></li>
+ <li>Yang Li, Saugata Ghose, Jongmoo Choi, Jin Sun, Hui Wang and Onur Mutlu.
+ <b>Utility-Based Hybrid Memory Management    </b></li>
 
- <li>Michihiro Koibuchi, Tomohiro Totoki, Hiroki Matsutani, Hideharu Amano, Fabien Chaix, Ikki Fujiwara and Henri Casanova. <b>A Case for Uni-Directional Network Topologies in Large-Scale Clusters    </b></li>
+ <li>Yingchao Huang and Dong Li. <b>Performance Modeling for Optimal Data
+ Placement on GPU with Heterogeneous Memory Systems     </b></li>
 
- <li>Mauro Ianni, Alessandro Pellegrini and Francesco Quaglia. <b>A Wait-free Multi-word Atomic (1,N) Register for Large-scale Data Sharing on Multi-core Machines   </b></li>
+ <li>Michihiro Koibuchi, Tomohiro Totoki, Hiroki Matsutani, Hideharu Amano,
+ Fabien Chaix, Ikki Fujiwara and Henri Casanova. <b>A Case for Uni-Directional
+ Network Topologies in Large-Scale Clusters    </b></li>
+
+ <li>(Short paper) Mauro Ianni, Alessandro Pellegrini and Francesco Quaglia.
+ <b>A Wait-free Multi-word Atomic (1,N) Register for Large-scale Data Sharing
+ on Multi-core Machines   </b></li>
+
 </ul>
 
-<h5>Session 7: Visualization and I/O (3 Full  and 1 Short papers)</h5>
+<h5>Session 7: Visualization and I/O </h5>
 Chair : Toni Cortes
 <ul>
- <li>Jianping Li, Misbah Mubarak, Kwan-Liu Ma, Robert Ross and Christopher Carothers. <b>Visual Analytics Techniques for Exploring the Design Space of Large-Scale High-Radix Networks    </b></li>
 
- <li>  Misbah Mubarak, Philip Carns, Jonathan Jenkins, Jianping Li, Nikhil Jain, Shane Snyder, Robert Ross, Abhinav Bhatele, Chris Carothers and Kwan-Liu Ma. <b>Quantifying I/O and Communication Traffic Interference on Burst Buffer Equipped Dragonfly Networks</b></li>
+ <li>Jianping Li, Misbah Mubarak, Kwan-Liu Ma, Robert Ross and Christopher
+ Carothers. <b>Visual Analytics Techniques for Exploring the Design Space of
+ Large-Scale High-Radix Networks    </b></li>
 
- <li>Shaomeng Li, Sudhanshu Sane, Leigh Orf, Pablo Mininni, John Clyne and Hank Child. <b>Spatiotemporal Wavelet Compression for Visualization of Scientific Simulation Data</b></li>
+ <li>  Misbah Mubarak, Philip Carns, Jonathan Jenkins, Jianping Li, Nikhil
+ Jain, Shane Snyder, Robert Ross, Abhinav Bhatele, Chris Carothers and Kwan-Liu
+ Ma. <b>Quantifying I/O and Communication Traffic Interference on Burst Buffer
+ Equipped Dragonfly Networks</b></li>
 
- <li>Hyungsoo Jung, Sooyong Kang, Hyuck Han, Hyeongwon Jang, Sang Youp Rhee and Jae Eun Kim. <b>AutoBahn: Accelerating Concurrent, Durable File I/O via a Non-Volatile Buffer   </b></li>
+ <li>Shaomeng Li, Sudhanshu Sane, Leigh Orf, Pablo Mininni, John Clyne and Hank
+ Child. <b>Spatiotemporal Wavelet Compression for Visualization of Scientific
+ Simulation Data</b></li>
+
+ <li>(Short paper) Hyungsoo Jung, Sooyong Kang, Hyuck Han, Hyeongwon Jang,
+ Sang Youp Rhee and Jae Eun Kim. <b>AutoBahn: Accelerating Concurrent, Durable
+ File I/O via a Non-Volatile Buffer   </b></li>
+
 </ul>
 
-<h5>Session 8: Best Papers 2 (Areas 3 and 4)</h5>
+<h5>Session 8: Best Papers 2 </h5>
 Chair : Rich Vuduc
 <ul>
- <li>Stratos Dimopoulos, Chandra Krintz and Rich Wolski. <b>JUSTICE: A Deadline-aware, Fair-share Resource Allocator for Implementing Multi-analytics    </b></li>
 
- <li>Jaehyun Han, Donghun Koo, Glenn K. Lockwood, Jaehwan Lee, Hyeonsang Eom and Soonwook Hwang. <b>Accelerating a burst buffer via user-level I/O isolation.</b></li>
+ <li>Stratos Dimopoulos, Chandra Krintz and Rich Wolski. <b>JUSTICE: A
+ Deadline-aware, Fair-share Resource Allocator for Implementing Multi-analytics
+ </b></li>
+
+ <li>Jaehyun Han, Donghun Koo, Glenn K. Lockwood, Jaehwan Lee, Hyeonsang Eom
+ and Soonwook Hwang. <b>Accelerating a burst buffer via user-level I/O
+ isolation.</b></li>
+
 </ul>
 
-<h5>Session 9: High Performance Big Data Analytics (3 Full papers)</h5>
+<h5>Session 9: High Performance Big Data Analytics </h5>
 Chair : Pierre Matri
 <ul>
- <li>Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong and Xiaokui Xiao. <b>GraphH: High Performance Big Graph Analytics in Small Clusters    </b></li>
 
- <li>Sarat Sreepathi, Jitendra Kumar, Forrest Hoffman, Richard Mills, Vamsi Sripathi and William Hargrove. <b>Parallel Multivariate Spatio-Temporal Clustering of Large Ecological Datasets on Hybrid Supercomputers    </b></li>
+ <li>Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong and Xiaokui Xiao. <b>GraphH:
+ High Performance Big Graph Analytics in Small Clusters    </b></li>
 
- <li>Stefano Iannucci, Hisham A. Kholidy, Amrita Dhakal Ghimire, Rui Jia, Sherif Abdelwahed and Ioana Banicescu. <b>A Comparison of Graph-Based Synthetic Data Generators for Benchmarking Next-Generation Intrusion Detection Systems</b></li>
+ <li>Sarat Sreepathi, Jitendra Kumar, Forrest Hoffman, Richard Mills, Vamsi
+ Sripathi and William Hargrove. <b>Parallel Multivariate Spatio-Temporal
+ Clustering of Large Ecological Datasets on Hybrid Supercomputers    </b></li>
+
+ <li>Stefano Iannucci, Hisham A. Kholidy, Amrita Dhakal Ghimire, Rui Jia,
+ Sherif Abdelwahed and Ioana Banicescu. <b>A Comparison of Graph-Based
+ Synthetic Data Generators for Benchmarking Next-Generation Intrusion Detection
+ Systems</b></li>
+
 </ul>
 
-<h5>Session 10: Virtualization (3 Full papers)</h5>
+<h5>Session 10: Virtualization </h5>
 Chair : Balazs Gerofi
 <ul>
- <li>Panagiotis Patros, Dayal Dilli, Kenneth Kent and Michael Dawson. <b>Dynamically Compiled Artifact Sharing for Clouds   </b></li>
 
- <li>Daeyoun Kang, Tae Joon Jun, Dohyeun Kim, Jaewook Kim and Daeyoung Kim. <b>ConVGPU: GPU Management Middleware in Container Based Virtualized Environment   </b></li>
+ <li>Panagiotis Patros, Dayal Dilli, Kenneth Kent and Michael Dawson.
+ <b>Dynamically Compiled Artifact Sharing for Clouds   </b></li>
 
- <li>Andrew Younge, Kevin Pedretti, Ryan Grant and Ron Brightwell. <b>Enabling Diverse Software Stacks on Supercomputers using High Performance Virtual Clusters    </b></li>
+ <li>Daeyoun Kang, Tae Joon Jun, Dohyeun Kim, Jaewook Kim and Daeyoung Kim.
+ <b>ConVGPU: GPU Management Middleware in Container Based Virtualized
+ Environment   </b></li>
+
+ <li>Andrew Younge, Kevin Pedretti, Ryan Grant and Ron Brightwell. <b>Enabling
+ Diverse Software Stacks on Supercomputers using High Performance Virtual
+ Clusters    </b></li>
+
 </ul>
 
-<h5>Session 11: Emerging Architectures and Parallel Processing (2 Full and 3 Short papers)</h5>
+<h5>Session 11: Emerging Architectures and Parallel Processing </h5>
 Chair : Frank Mueller
 <ul>
- <li>Vicente Adolfo Bolea Sanchez, Wonbae Kim, Youngmoon Eom, Kibeom Jin, Moohyeon Nam, Deukyeon Hwang, Jik-Soo Kim and Beomseok Nam. <b>EclipseMR: Distributed and Parallel Task Processing with Consistent Hashing   </b></li>
 
- <li>Reza Azimi, Tyler Fox and Sherief Reda. <b>Understanding the Role of GPGPU-accelerated SoC-based ARM Clusters    </b></li>
+ <li>Vicente Adolfo Bolea Sanchez, Wonbae Kim, Youngmoon Eom, Kibeom Jin,
+ Moohyeon Nam, Deukyeon Hwang, Jik-Soo Kim and Beomseok Nam. <b>EclipseMR:
+ Distributed and Parallel Task Processing with Consistent Hashing   </b></li>
 
- <li>Kun Tang, Devesh Tiwari, Saurabh Gupta, Sudharshan Vazhkudai and Xubin He. <b>Effective Running of End-to-end HPC Workflows on Emerging Heterogeneous Architectures   </b></li>
+ <li>Reza Azimi, Tyler Fox and Sherief Reda. <b>Understanding the Role of
+ GPGPU-accelerated SoC-based ARM Clusters    </b></li>
 
- <li>Renan Fischer E Silva and Paul Carpenter. <b>High Throughput and Low Latency on Hadoop Clusters using Explicit Congestion Notification: The Untold Truth    </b></li>
+ <li>(Short paper) Kun Tang, Devesh Tiwari, Saurabh Gupta, Sudharshan
+ Vazhkudai and Xubin He. <b>Effective Running of End-to-end HPC Workflows on
+ Emerging Heterogeneous Architectures   </b></li>
 
- <li>Hari Subramoni, Xiaoyi Lu and Dhabaleswar Panda. <b>A Scalable Network-Based Performance Analysis Tool for MPI on Large-Scale HPC Systems   </b></li>
+ <li>(Short paper) Renan Fischer E Silva and Paul Carpenter. <b>High
+ Throughput and Low Latency on Hadoop Clusters using Explicit Congestion
+ Notification: The Untold Truth    </b></li>
+
+ <li>(Short paper) Hari Subramoni, Xiaoyi Lu and Dhabaleswar Panda. <b>A
+ Scalable Network-Based Performance Analysis Tool for MPI on Large-Scale HPC
+ Systems   </b></li>
 
 </ul>
 
-<h5>Session 12: Data Storage and Processing (2 Full and 2 Short papers)</h5>
+<h5>Session 12: Data Storage and Processing </h5>
 Chair : Maria S. Perez
 <ul>
- <li>Houjun Tang, Suren Byna, Bin Dong, Jialin Liu and Quincey Koziol. <b>SoMeta: Scalable Object-centric Metadata Management for High Performance Computing  </b></li>
 
- <li>Clement Mommessin, Matthieu Dreher, Bruno Raffin and Tom Peterka. <b>Automatic Data Filtering for In Situ Workflows      </b></li>
+ <li>Houjun Tang, Suren Byna, Bin Dong, Jialin Liu and Quincey Koziol.
+ <b>SoMeta: Scalable Object-centric Metadata Management for High Performance
+ Computing  </b></li>
 
- <li>Hongliang Li, Jie Wu, Zhen Jiang, Xiang Li and Xiaohui Wei. <b>Task Allocation for Stream Processing with Recovery Latency Guarantee </b></li>
+ <li>Clement Mommessin, Matthieu Dreher, Bruno Raffin and Tom Peterka.
+ <b>Automatic Data Filtering for In Situ Workflows      </b></li>
 
- <li>Ashish Tapdiya, Yuan Xue and Daniel Fabbri. <b>A Comparative Analysis of Materialized Views Selection and Concurrency Control Mechanisms in NoSQL Databases    </b></li>
+ <li>(Short paper) Hongliang Li, Jie Wu, Zhen Jiang, Xiang Li and Xiaohui Wei.
+ <b>Task Allocation for Stream Processing with Recovery Latency Guarantee
+ </b></li>
+
+ <li>(Short paper) Ashish Tapdiya, Yuan Xue and Daniel Fabbri. <b>A
+ Comparative Analysis of Materialized Views Selection and Concurrency Control
+ Mechanisms in NoSQL Databases    </b></li>
+
 </ul>
 
-<h5>Session 13: Scheduling (2 Full papers)</h5>
-Chair : Sriram Krishnamoorthy
-<ul>
- <li>Jens Gustedt, Emmanuel Jeannot and Farouk Mansouri. <b>Automatic, Abstracted and Portable Topology-Aware Thread Placement   </b></li>
+<h5>Session 13: Scheduling </h5> Chair : Sriram Krishnamoorthy <ul>
 
- <li>Jens Breitbart, Simon Pickartz, Josef Weidendorfer, Stefan Lankes and Antonello Monti. <b>Dynamic Co-scheduling Driven by Main Memory Bandwidth Utilization   </b></li>
+ <li>Jens Gustedt, Emmanuel Jeannot and Farouk Mansouri. <b>Automatic,
+ Abstracted and Portable Topology-Aware Thread Placement   </b></li>
+
+ <li>Jens Breitbart, Simon Pickartz, Josef Weidendorfer, Stefan Lankes and
+ Antonello Monti. <b>Dynamic Co-scheduling Driven by Main Memory Bandwidth
+ Utilization   </b></li>
+
 </ul>
 
-<h5>Session 14: Performance Profiling (2 Full papers)</h5>
+<h5>Session 14: Performance Profiling </h5>
 Chair : Yves Robert
 <ul>
- <li>Niyazi Sorkunlu, Varun Chandola and Abani Patra. <b>Tracking System Behavior from Resource Usage Data    </b></li>
 
- <li>David Boehme, David Beckingsale and Martin Schulz. <b>Flexible Data Aggregation for Performance Profiling   </b></li>
+ <li>Niyazi Sorkunlu, Varun Chandola and Abani Patra. <b>Tracking System
+ Behavior from Resource Usage Data    </b></li>
+
+ <li>David Boehme, David Beckingsale and Martin Schulz. <b>Flexible Data
+ Aggregation for Performance Profiling   </b></li>
 
 </ul>
 
-<h5>Session 15: Leveraging Accelerated Systems (3 Full papers) </h5>
+<h5>Session 15: Leveraging Accelerated Systems </h5>
 Chair : Misbah Mubarak
 <ul>
- <li>Masahiro Nakao, Hitoshi Murai, Hidetoshi Iwashita, Akihiro Tabuchi, Taisuke Boku and Mitsuhisa Sato. <b>Implementing Lattice QCD Application with XcalableACC Language on Accelerated Cluster    </b></li>
 
- <li>Unnikrishnan Cheramangalath, Rupesh Nasre and Y N Srikant. <b>DH-Falcon: A language for large-scale graph processing on Distributed Heterogeneous systems.    </b></li>
+ <li>Masahiro Nakao, Hitoshi Murai, Hidetoshi Iwashita, Akihiro Tabuchi,
+ Taisuke Boku and Mitsuhisa Sato. <b>Implementing Lattice QCD Application with
+ XcalableACC Language on Accelerated Cluster    </b></li>
 
- <li>David Rohr and Volker Lindenstruth. <b>Fast failure erasure encoding using just in time compilation for CPUs, GPUs, and FPGAs    </b></li>
+ <li>Unnikrishnan Cheramangalath, Rupesh Nasre and Y N Srikant. <b>DH-Falcon: A
+ language for large-scale graph processing on Distributed Heterogeneous
+ systems.    </b></li>
+
+ <li>David Rohr and Volker Lindenstruth. <b>Fast failure erasure encoding using
+ just in time compilation for CPUs, GPUs, and FPGAs    </b></li>
+
 </ul>
 
-<h5>Session 16: Fault Tolerance (3 Full papers)</h5>
+<h5>Session 16: Fault Tolerance </h5>
 Chair : Frederic Vivien
 <ul>
- <li>Omer Subasi, Sriram Krishnamoorthy and Gokcen Kestor. <b>Toward A General Theory of Optimal Checkpoint Placement  </b></li>
 
- <li>Shuo Yang, Kai Wu, Yifan Qiao, Dong Li and Jidong Zhai. <b>Algorithm-Directed Crash Consistence in Non-Volatile Memory for HPC    </b></li>
+ <li>Omer Subasi, Sriram Krishnamoorthy and Gokcen Kestor. <b>Toward A General
+ Theory of Optimal Checkpoint Placement  </b></li>
 
- <li>Li Han, Louis-Claude Canon, Henri Casanova, Yves Robert and Frédéric Vivien. <b>Checkpointing Workflows for Fail-Stop Errors  </b></li>
+ <li>Shuo Yang, Kai Wu, Yifan Qiao, Dong Li and Jidong Zhai.
+ <b>Algorithm-Directed Crash Consistence in Non-Volatile Memory for HPC
+ </b></li>
+
+ <li>Li Han, Louis-Claude Canon, Henri Casanova, Yves Robert and Frédéric
+ Vivien. <b>Checkpointing Workflows for Fail-Stop Errors  </b></li>
+
 </ul>
 
-<h5>Session 17: Numerical Methods and Libraries (2 Full and 2 Short papers)</h5>
+<h5>Session 17: Numerical Methods and Libraries </h5>
 Chair : Olga Pierce
 <ul>
- <li>Matt Martineau and Simon Mcintosh-Smith. <b>Exploring on-node parallelism with neutral, a Monte Carlo neutral particle transport mini-app   </b></li>
 
- <li>Matthieu Dreher, Kiran Sasikumar, Subramanian Sankaranarayanan and Tom Peterka. <b>Manala: a Flexible Flow Control Library for Asynchronous Task Communication   </b></li>
+ <li>Matt Martineau and Simon Mcintosh-Smith. <b>Exploring on-node parallelism
+ with neutral, a Monte Carlo neutral particle transport mini-app   </b></li>
 
- <li>Balazs Nemeth, Tom Haber and Wim Lamotte. <b>Distributed Affine-Invariant MCMC Sampler    </b></li>
+ <li>Matthieu Dreher, Kiran Sasikumar, Subramanian Sankaranarayanan and Tom
+ Peterka. <b>Manala: a Flexible Flow Control Library for Asynchronous Task
+ Communication   </b></li>
 
- <li>Takashi Shimokawabe, Toshio Endo, Naoyuki Onodera and Takayuki Aoki. <b>A Stencil Framework to Realize Large-scale Computations Beyond Device Memory Capacity on GPU Supercomputers    </b></li>
+ <li>(Short paper) Balazs Nemeth, Tom Haber and Wim Lamotte. <b>Distributed
+ Affine-Invariant MCMC Sampler    </b></li>
+
+ <li>(Short paper) Takashi Shimokawabe, Toshio Endo, Naoyuki Onodera and
+ Takayuki Aoki. <b>A Stencil Framework to Realize Large-scale Computations
+ Beyond Device Memory Capacity on GPU Supercomputers    </b></li>
+
 </ul>
 
-<h5>Session 18: Programming and Systems Software (2 Full and 2 Short papers)</h5>
+<h5>Session 18: Programming and Systems Software</h5>
 Chair : Sriram Krishnamoorthy
 <ul>
- <li>Yuping Fan, Paul Rich, William Allcock, Michael Papka and Zhiling Lan. <b>Trade-off between Prediction Accuracy and Underestimation Rate in Job Runtime Estimates    </b></li>
 
- <li>Pengfei Zou, Tyler Allen, Clauded Davis, Xizhou Feng and Rong Ge. <b>CLIP: Cluster-Level Intelligent Power Coordination for Power-Bounded Systems</b></li>
+ <li>Yuping Fan, Paul Rich, William Allcock, Michael Papka and Zhiling Lan.
+ <b>Trade-off between Prediction Accuracy and Underestimation Rate in Job
+ Runtime Estimates    </b></li>
 
- <li>Tim Suess, Lars Nagel, Marc-Andre Vef, Andre Brinkmann, Dustin Feld and Thomas Soddemann. <b>Pure Functions in C: A Small Keyword for Automatic Parallelization   </b></li>
+ <li>Pengfei Zou, Tyler Allen, Clauded Davis, Xizhou Feng and Rong Ge. <b>CLIP:
+ Cluster-Level Intelligent Power Coordination for Power-Bounded
+ Systems</b></li>
 
- <li>Maruf Ahmed and Albert Zomaya. <b>The Effect of Resource Allocation and System Events on the Consolidated Virtual Machines Performance</b></li>
+ <li>(Short paper) Tim Suess, Lars Nagel, Marc-Andre Vef, Andre Brinkmann,
+ Dustin Feld and Thomas Soddemann. <b>Pure Functions in C: A Small Keyword for
+ Automatic Parallelization   </b></li>
+
+ <li>(Short paper) Maruf Ahmed and Albert Zomaya. <b>The Effect of Resource
+ Allocation and System Events on the Consolidated Virtual Machines
+ Performance</b></li>
+
 </ul>
 
-<h5>Session 19: Algorithms and Tools for I/O and Big Data Management (2 Full and 2 Short papers)</h5>
+<h5>Session 19: Algorithms and Tools for I/O and Big Data Management </h5>
 Chair : Naoya Maruyama
 <ul>
- <li>Jeremy Logan, Jong Choi, Matthew Wolf, George Ostrouchov, Lipeng Wan, Norbert Podhorszki, William Godoy, Erich Lohrmann, Greg Eisenhauer, Chad Wood, Kevin Huck and Scott Klasky. <b>Extending Skel to support the development and optimization of next generation I/O systems   </b></li>
 
- <li>Xinyu Chen, Trilce Estrada and Jeremy Benson. <b>keybin Key-based Binning for Distributed Clustering    </b></li>
+ <li>Jeremy Logan, Jong Choi, Matthew Wolf, George Ostrouchov, Lipeng Wan,
+ Norbert Podhorszki, William Godoy, Erich Lohrmann, Greg Eisenhauer, Chad Wood,
+ Kevin Huck and Scott Klasky. <b>Extending Skel to support the development and
+ optimization of next generation I/O systems   </b></li>
 
- <li>Zhongqi An, Zhengyu Zhang and Qiang Li. <b>Optimizing the Datapath for Key-value Middleware with NVMe SSDs over RDMA Interconnects   </b></li>
+ <li>Xinyu Chen, Trilce Estrada and Jeremy Benson. <b>keybin Key-based Binning
+ for Distributed Clustering    </b></li>
 
- <li>Jong Youl Choi, Jeremy Logan, Matthew Wolf, George Ostrouchov, Tahsin Kurc, Gary Liu, Norbert Podhorszki, Scott Klasky, Melissa Romanus, Qian Sun, Manish Parashar, Randy Michael Churchill and Choong-Seock Chang. <b>TGE: Machine Learning Based Task Graph Embedding for Large-scale Topology Mapping   </b></li>
+ <li>(Short paper) Zhongqi An, Zhengyu Zhang and Qiang Li. <b>Optimizing the
+ Datapath for Key-value Middleware with NVMe SSDs over RDMA Interconnects
+ </b></li>
+
+ <li>(Short paper) Jong Youl Choi, Jeremy Logan, Matthew Wolf, George
+ Ostrouchov, Tahsin Kurc, Gary Liu, Norbert Podhorszki, Scott Klasky, Melissa
+ Romanus, Qian Sun, Manish Parashar, Randy Michael Churchill and Choong-Seock
+ Chang. <b>TGE: Machine Learning Based Task Graph Embedding for Large-scale
+ Topology Mapping   </b></li>
+
 </ul>
 
-<h5>Session 20: Silent Data Corruption (1 Full and 2 Short papers)</h5>
+<h5>Session 20: Silent Data Corruption</h5>
 Chair : Christian Engelmann
 <ul>
- <li>Pierre-Louis Guhur, Emil Constantinescu, Debojyoti Ghosh, Tom Peterka and Franck Cappello. <b>Detection of Silent Data Corruption in Adaptive Numerical Integration Solvers   </b></li>
 
- <li>Scott Levy, Kurt Ferreira and Patrick Bridges. <b>Detecting and
- Correcting Silent Corruption of Read-Mostly Application Data </b></li>
+ <li>Pierre-Louis Guhur, Emil Constantinescu, Debojyoti Ghosh, Tom Peterka and
+ Franck Cappello. <b>Detection of Silent Data Corruption in Adaptive Numerical
+ Integration Solvers   </b></li>
 
- <li>Omer Subasi and Sriram Krishnamoorthy. <b>A Gaussian Process
- Approach for Effective Soft Error Detection </b>  </li>
+ <li>(Short paper) Scott Levy, Kurt Ferreira and Patrick Bridges. <b>Detecting
+ and Correcting Silent Corruption of Read-Mostly Application Data </b></li>
+
+ <li>(Short paper) Omer Subasi and Sriram Krishnamoorthy. <b>A Gaussian
+ Process Approach for Effective Soft Error Detection </b>  </li>
 
 </ul>
