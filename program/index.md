@@ -419,7 +419,7 @@ Placement in Hybrid Memory Systems  </b></li>
 </ul>
 
 <h5>Session 6: Memory and Networks </h5>
-Chair : Bronis De Supinski
+Chair : Bronis R. de Supinski
 <ul>
 
  <li>Yang Li, Saugata Ghose, Jongmoo Choi, Jin Sun, Hui Wang and Onur Mutlu.
